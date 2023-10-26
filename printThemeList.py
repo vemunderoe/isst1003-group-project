@@ -6,3 +6,17 @@ unique_themes = datasett['Theme'].unique()
 
 for theme in unique_themes:
     print(theme)
+
+chosen_theme = input("Choose a theme (Type exit to close): ")
+while chosen_theme:
+    if chosen_theme == "exit":
+        break
+    if chosen_theme in unique_themes:
+        # Vis alle Set_Name i temaet uten å vise indeks
+        settNavnIValgtTema = datasett.loc[datasett['Theme'] == chosen_theme, 'Set_Name'].values
+        for settNavn in settNavnIValgtTema:
+            print(settNavn)
+    else:
+        print("Theme not found. Try again.")
+        chosen_theme = input("Choose a theme (Type exit to close): ")
+    chosen_theme = input("Choose a theme (Type exit to close): ")

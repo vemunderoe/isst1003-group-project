@@ -1,1004 +1,715 @@
-Set_Name,Theme,Price
-Extra Dots - Series 2,DOTS,3.99
-Extra Dots - Series 1,DOTS,3.99
-Creative Blue Bricks,Classic,4.99
-Creative Green Bricks,Classic,4.99
-Funky Animals Bracelet,DOTS,4.99
-Sparkly Unicorn Bracelet,DOTS,4.99
-Cosmic Wonder Bracelet,DOTS,4.99
-Go Team! Bracelet,DOTS,4.99
-Love Birds Bracelet,DOTS,4.99
-Magic Forest Bracelet,DOTS,4.99
-Power Bracelet,DOTS,4.99
-Fire Truck,DUPLO,6.99
-Tow Truck,DUPLO,6.99
-Stephanie's Summer Heart Box,Friends,7.99
-White Baseplate,Classic,7.99
-My First Tow Truck,DUPLO,9.99
-Woody & RC,Disney,9.99
-Mia's Summer Heart Box,Friends,7.99
-Olivia's Summer Heart Box,Friends,7.99
-Police Patrol Car,City,9.99
-Prince Puppycorn Trike,Unikitty,9.99
-Kai Avatar - Arcade Pod,NINJAGO,9.99
-Jay Avatar - Arcade Pod,NINJAGO,9.99
-My First Minnie Build,Disney,9.99
-Police Bike,DUPLO,9.99
-Pizza Stand,DUPLO,9.99
-Emma's Mobile Veterinary Clinic ,Friends,9.99
-Barbecue Burn Out,City,9.99
-Monster Truck,City,9.99
-Jet Patrol,City,9.99
-Construction Loader,City,9.99
-Stunt Team,City,9.99
-Cole's Speeder Car,NINJAGO,9.99
-Ice Cream Cart,Friends,9.99
-Puppy Playground,Friends,9.99
-Police Dog Unit,City,9.99
-Resistance Y-wing Microfighter,Star Wars,9.99
-Street Sweeper,City,9.99
-Mail Plane,City,9.99
-Satellite Service Mission,City,9.99
-Forest Fire,City,9.99
-Jungle Raider,NINJAGO,9.99
-Unikitty Cloud Car,Unikitty,9.99
-My First Race Car,DUPLO,4.99
-Ocean Mini-Submarine,City,9.99
-Olivia's Flower Garden,Friends,9.99
-Aurora's Royal Carriage,Disney,9.99
-Lloyd Avatar - Arcade Pod,NINJAGO,9.99
-Moana's Ocean Adventure,Disney,9.99
-The Taiga Adventure,Minecraft,9.99
-Kylo Ren's Shuttle Microfighter,Star Wars,9.99
-Thanos Mech,Marvel,9.99
-Iron Man Mech,Marvel,9.99
-Spider-Man Mech,Marvel,9.99
-Propeller Plane,Creator 3-in-1,9.99
-Sports Car,Creator 3-in-1,9.99
-Batboat The Penguin Pursuit!,Batman,9.99
-Bricks and Ideas,Classic,9.99
-Mighty Micros: Scarlet Spider vs. Sandman,Marvel,9.99
-Farm Animals,DUPLO,9.99
-My First Mickey Build,Disney,9.99
-Arctic Exploration Team,City,9.99
-BigFig Pig with Baby Zombie,Minecraft,14.99
-Dune Buggy,Creator 3-in-1,12.99
-BigFig Creeper and Ocelot,Minecraft,14.99
-Monster Truck,Creator 3-in-1,14.99
-Curves & Crossroad,City,14.99
-Unikitty's Sweetest Friends EVER!,THE LEGO MOVIE 2,9.99
-Olivia's Heart Box,Friends,7.99
-Buggy,Technic,12.99
-Chevrolet Camaro ZL1 Race Car,Speed Champions,14.99
-McLaren Senna,Speed Champions,14.99
-Futuristic Flyer,Creator 3-in-1,14.99
-Deep Sea Creatures,Creator 3-in-1,14.99
-Gamora,BrickHeadz,9.99
-Mini CLAAS XERION,Technic,12.99
-1974 Porsche 911 Turbo 3.0,Speed Champions,14.99
-Sith Troopers Battle Pack,Star Wars,14.99
-Mandalorian Battle Pack,Star Wars,14.99
-Blue Baseplate,Classic,7.99
-Playroom,DUPLO,14.99
-Straight & T-Junction ,City,14.99
-Death Star Cannon,Star Wars,19.99
-Rainbow Fun,Classic,4.99
-Han Solo,Star Wars,9.99
-Arctic Ice Glider,City,6.99
-Olaf,LEGO Frozen 2,14.99
-Switch Tracks,City,15.99
-Spinjitzu Slam - Jay,NINJAGO,9.99
-Cat Mario Power-Up Pack,LEGO Super Mario,9.99
-Emma's Summer Heart Box,Friends,7.99
-Rainbow Jewellery Stand,DOTS,14.99
-Bedroom,DUPLO,14.99
-Animal Picture Holders,DOTS,14.99
-Stephanie's Heart Box,Friends,7.99
-Andrea's Summer Heart Box,Friends,7.99
-Cole - Dragon Master,NINJAGO,14.99
-The Samurai Mech,NINJAGO,14.99
-Introducing Queen Watevra Wa'Nabi,THE LEGO MOVIE 2,19.99
-Ferrari F40 Competizione,Speed Champions,14.99
-Helicopter Adventure,Creator 3-in-1,9.99
-Spinjitzu Slam - Lloyd,NINJAGO,9.99
-Mia's Play Cube - Cinema,Friends,9.99
-Fire Mario Power-Up Pack ,LEGO Super Mario,9.99
-Monastery Training,NINJAGO,9.99
-Systar Party Crew,THE LEGO MOVIE 2,19.99
-Party Time,Unikitty,19.99
-Mulan's Storybook Adventures,Disney,19.99
-Toy Story Train,Disney,19.99
-Creative Suitcase,Classic,19.99
-Carnival Thrill Coaster,Disney,19.99
-Expecto Patronum,Harry Potter,19.99
-Vulture's Trucker Robbery,Marvel,19.99
-Captain America: Outriders Attack,Marvel,19.99
-Cole's Dirt Bike,NINJAGO,19.99
-The Rise of Voldemort,Harry Potter,19.99
-Mia's Foal Stable ,Friends,19.99
-Welcome to the Hidden Side,Hidden Side,19.99
-The Chicken Coop,Minecraft,19.99
-The End Battle,Minecraft,19.99
-Construction Bulldozer,City,19.99
-Avengers Speeder Bike Attack,Marvel,19.99
-My First Ladybird,DUPLO,4.99
-My First Car Creations,DUPLO,19.99
-Snow Groomer,City,19.99
-Anna's Canoe Expedition,LEGO Frozen 2,19.99
-Diving Yacht,City,19.99
-Emmet's Thricycle!,THE LEGO MOVIE 2,14.99
-Garbage Truck,City,19.99
-Anna and Elsa's Storybook Adventures,LEGO Frozen 2,19.99
-Ariel's Storybook Adventures,Disney,19.99
-Belle's Storybook Adventures,Disney,19.99
-Aquaman,BrickHeadz,9.99
-Mountain Fugitives,City,9.99
-Jasmine's Petite Tower,Disney,9.99
-Poppy's Pod,Trolls World Tour,19.99
-Techno Reef Dance Party,Trolls World Tour,19.99
-The Zombie Cave,Minecraft,19.99
-Emma's Play Cube - Toy Store,Friends,9.99
-Andrea's Heart Box,Friends,7.99
-Speed Record Car,City,9.99
-Jack's Beach Buggy,Hidden Side,19.99
-The Wool Farm,Minecraft,19.99
-Duel on Mustafar ,Star Wars,19.99
-Rex's Rex-treme Offroader!,THE LEGO MOVIE 2,29.99
-Rocket Truck,Creator 3-in-1,19.99
-Imperial Patrol Battle Pack,Star Wars,14.99
-The Panda Nursery,Minecraft,19.99
-Police Pursuit,Technic,19.99
-Builder Mario Power-Up Pack,LEGO Super Mario,9.99
-Good Morning Sparkle Babies!,THE LEGO MOVIE 2,9.99
-Unstoppable Bike Chase,Minions,19.99
-Ice-Cream Truck,City,19.99
-Emma's Heart Box,Friends,7.99
-Mulan's Training Day,Disney,14.99
-Elsa and Olaf's Tea Party,DUPLO,19.99
-Olivia's Play Cube - Researcher,Friends,9.99
-Mia's Play Cube - Veterinarian,Friends,9.99
-Emma's Play Cube - Photographer,Friends,9.99
-Basic Brick Set ,Classic,19.99
-Underwater Robot,Creator 3-in-1,19.99
-Sunset Track Racer,Creator 3-in-1,19.99
-Andrea's Car & Stage,Friends,19.99
-Heart Box,DUPLO,19.99
-Submarine Adventure,DUPLO,19.99
-Fire Truck,DUPLO,19.99
-Minnie's Birthday Party,Disney,19.99
-Train Tracks,DUPLO,19.99
-Spinjitzu Zane,NINJAGO,9.99
-Juice Truck,Friends,19.99
-Kai's Fire Dragon,NINJAGO,19.99
-Safari Off-Roader,City,19.99
-Heartlake City Hair Salon,Friends,19.99
-T-16 Skyhopper vs Bantha Microfighters,Star Wars,19.99
-Kai's Mech Jet,NINJAGO,19.99
-Tracks,City,19.99
-Naboo Starfighter Microfighter,Star Wars,9.99
-Spinjitzu Slam - Zane,NINJAGO,9.99
-Stephanie's Play Cube - Baker,Friends,9.99
-Mia's Heart Box,Friends,7.99
-Olivia's Play Cube - Sweet Shop,Friends,9.99
-Desert Rally Racer,City,9.99
-Race Truck,Technic,19.99
-Hook Loader,Technic,14.99
-Andrea's Play Cube - Singer,Friends,9.99
-Rapunzel's Small Tower,Disney,9.99
-Mia's Forest Adventures ,Friends,14.99
-Nissan GT-R NISMO,Speed Champions,19.99
-Cyborg,BrickHeadz,9.99
-Cole - Spinjitzu Master,NINJAGO,9.99
-Zane - Dragon Master,NINJAGO,14.99
-Extreme Engines,Creator 3-in-1,9.99
-Mighty Micros: Star-Lord vs. Nebula,Marvel,9.99
-My First Fun Puzzle,DUPLO,19.99
-Fire Dragon,Creator 3-in-1,19.99
-Zane - Spinjitzu Master,NINJAGO,9.99
-Andrea's Play Cube - Pet Shop,Friends,9.99
-Bubbles Playground Showdown,Powerpuff Girls,19.99
-Benny's Space Squad,THE LEGO MOVIE 2,9.99
-Drone Explorer,Creator 3-in-1,9.99
-Lloyd's Journey,NINJAGO,14.99
-Olivia's Hamster Playground,Friends,9.99
-Desk Organiser,DOTS,19.99
-Elsa,BrickHeadz,9.99
-Snowspeeder,Star Wars,19.99
-Hogwarts Room of Requirement,Harry Potter,19.99
-Dr. Wu's Lab: Baby Dinosaurs Breakout,Jurassic World,19.99
-Heartlake City Park Café,Friends,19.99
-Spider-Man vs. Doc Ock,Marvel,19.99
-Ferrari F8 Tributo,Speed Champions,19.99
-1985 Audi Sport Quattro S1,Speed Champions,19.99
-Bricks and Houses,Classic,19.99
-The Mandalorian & The Child,Star Wars,19.99
-Desert Pokey,LEGO Super Mario,19.99
-Emmet and Benny's 'Build and Fix' Workshop!,THE LEGO MOVIE 2,19.99
-Jewellery Box,DOTS,19.99
-Pineapple Pencil Holder,DOTS,19.99
-Duke Caboom's Stunt Show,Disney,19.99
-Golden Dragon Master,NINJAGO,14.99
-J.B.'s Submarine,Hidden Side,19.99
-Battle-Ready Batman and MetalBeard,Batman,19.99
-Baby Elephant Jungle Rescue,Friends,19.99
-Dragster,Technic,19.99
-Wrecking Ball,Overwatch,19.99
-Getaway Truck,Technic,19.99
-Whomp's Lava Trouble,LEGO Super Mario,19.99
-Kai - Dragon Master,NINJAGO,14.99
-Rey,Star Wars,9.99
-Batman vs. The Riddler Robbery,Batman,9.99
-World Fun,Classic,19.99
-Baby Animals,DUPLO,9.99
-Mining Power Splitter,City,19.99
-Buzz and Bo Peep's Playground Adventure,Disney,24.99
-Tracer vs. Widowmaker,Overwatch,14.99
-Spinjitzu Slam - Kai vs. Samurai,NINJAGO,19.99
-Outrider Dropship Attack,Marvel,14.99
-Han Solo,Star Wars,24.99
-Shuttle Transporter,Creator 3-in-1,24.99
-Alphabet Truck,DUPLO,24.99
-Train Bridge and Tracks,DUPLO,24.99
-Mining Team,City,9.99
-Elsa's Market Adventure,Disney,19.99
-Drone Chase,City,29.99
-Jay - Dragon Master,NINJAGO,14.99
-Airport,DUPLO,24.99
-Minecraft Alex BigFig with Chicken,Minecraft,14.99
-Cherry Picker,Technic,9.99
-Molten Man Battle,Spider-Man,29.99
-Spider-Man Car Chase,Marvel,9.99
-J.B.'s Ghost Lab,Hidden Side,19.99
-Hoth Generator Attack,Star Wars,29.99
-Kylo Ren,Star Wars,9.99
-Kayak Adventure,City,9.99
-Plane,DUPLO,9.99
-Airshow Jet,City,9.99
-Sith Infiltrator Microfighter,Star Wars,9.99
-Star-Lord,BrickHeadz,9.99
-Dock Side Fire,City,19.99
-Graveyard Mystery,Hidden Side,29.99
-Fire Helicopter Response,City,29.99
-Hungarian Horntail Triwizard Challenge,Harry Potter,29.99
-Elsa and the Reindeer Carriage,LEGO Frozen 2,29.99
-Racing Cars,City,29.99
-Ultrakatty & Warrior Lucy!,THE LEGO MOVIE 2,29.99
-Lonesome Flats Raft Adventure,Trolls World Tour,29.99
-Cinderella's Castle Celebration,Disney,29.99
-Wrecked Shrimp Boat,Hidden Side,29.99
-Jay and Lloyd's Velocity Racers,NINJAGO,29.99
-Underwater Loop,Friends,29.99
-Fire Chief Response Truck,City,29.99
-Windows of Creativity,Classic,29.99
-Rover Testing Drive,City,29.99
-Shuricopter,NINJAGO,29.99
-The Blaze Bridge,Minecraft,29.99
-2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,Speed Champions,29.99
-Hanzo vs. Genji,Overwatch,19.99
-Resistance A-wing Starfighter,Star Wars,29.99
-Mia's Organic Food Market,Friends,19.99
-Poppy's Air Balloon Adventure,Trolls World Tour,29.99
-Bracelet Mega Pack,DOTS,24.99
-First Order TIE Fighter Microfighter,Star Wars,9.99
-Nya - Spinjitzu Master,NINJAGO,9.99
-Pteranodon Escape,Juniors,19.99
-The Pillager Outpost,Minecraft,29.99
-The Menace of Mysterio,Marvel,29.99
-Minecraft Skeleton BigFig with Magma Cube,Minecraft,14.99
-Monster Truck,City,19.99
-Brick Box,DUPLO,29.99
-Police Highway Arrest,City,29.99
-My First Animal Brick Box,DUPLO,29.99
-Super Heroes Lab,DUPLO,29.99
-Gamer's Market,NINJAGO,29.99
-Nature Glamping,Friends,29.99
-Empire Dragon,NINJAGO,29.99
-Olivia's Cupcake Cafe,Friends,29.99
-Race Boat Transporter,City,29.99
-Wild River Escape,City,19.99
-Service & Care Truck,Friends,19.99
-War Machine Buster,Marvel,34.99
-El Fuego's Stunt Truck,Hidden Side,39.99
-Anakin's Jedi Starfighter,Star Wars,19.99
-The Golden Dragon,NINJAGO,19.99
-Tatooine Battle Pack,Star Wars,14.99
-Obi-Wan's Hut,Star Wars,29.99
-Mythical Creatures,Creator 3-in-1,14.99
-Heart Box Friendship Pack,Friends,19.99
-RV Vacation,Disney,34.99
-Mighty Micros: Thor vs. Loki,Marvel,9.99
-Duel on Starkiller Base,Star Wars,19.99
-Stephanie's Bedroom,Friends,9.99
-Race Plane,Creator 3-in-1,29.99
-Action Battle Endor Assault,Star Wars,29.99
-Ski Speeder vs. First Order Walker Microfighters,Star Wars,19.99
-Anakin's Podracer – 20th Anniversary Edition,Star Wars,29.99
-Spinjitzu Jay,NINJAGO,9.99
-Spinjitzu Cole,NINJAGO,9.99
-Dilophosaurus on the Loose,Jurassic World,19.99
-Minecraft Steve BigFig with Parrot,Minecraft,14.99
-Luke Skywalker's Landspeeder,Star Wars,29.99
-Jay - Spinjitzu Master,NINJAGO,9.99
-Spinjitzu Nya & Wu,NINJAGO,19.99
-Aragog's Lair,Harry Potter,14.99
-Anakin's Jedi Interceptor,Star Wars,29.99
-A-Wing vs. TIE Silencer Microfighters,Star Wars,19.99
-Velociraptor: Biplane Rescue Mission,Jurassic World,29.99
-Forbidden Forest: Umbridge's Encounter,Harry Potter,29.99
-Spiderjet vs. Venom Mech,Marvel,29.99
-El Fuego's Stunt Plane,Hidden Side,29.99
-Newbury Subway,Hidden Side,29.99
-Emma's Fashion Shop,Friends,29.99
-Panda Jungle Tree House,Friends,29.99
-Formula E Panasonic Jaguar Racing GEN2 Car & Jaguar I-PACE eTROPHY,Speed Champions,29.99
-Piranha Plant Power Slide,LEGO Super Mario,29.99
-BASH!,Technic,19.99
-Bakery,DUPLO,34.99
-Police Station,DUPLO,29.99
-Kai - Spinjitzu Master,NINJAGO,9.99
-First Order Specialists Battle Pack,Star Wars,14.99
-X-wing Starfighter Trench Run,Star Wars,29.99
-Supernatural Race Car,Hidden Side,29.99
-Boomer Bill Barrage,LEGO Super Mario,29.99
-Spinjitzu Kai,NINJAGO,9.99
-Ariel's Underwater Concert,Juniors,14.99
-Emmet and Lucy's Visitors from the DUPLO Planet,THE LEGO MOVIE 2,29.99
-Ford Fiesta M-Sport WRC,Speed Champions,14.99
-Off-Road Chase,City,6.99
-Queen Watevra's Build Whatever Box!,THE LEGO MOVIE 2,39.99
-Turtles Rescue Mission,Friends,19.99
-Parachute Arrest,City,39.99
-City Advent Calendar,City,29.99
-Pteranodon Chase,Jurassic World,19.99
-Dolphins Rescue Mission,Friends,39.99
-Spider-Man Bike Rescue,Marvel,19.99
-People Pack - Fun Fair,City,39.99
-Elsa's Jewellery Box,LEGO Frozen 2,39.99
-Ninja Tuner Car,NINJAGO,39.99
-Mars Research Shuttle,City,39.99
-The Knight Bus,Harry Potter,39.99
-Fire Fang,NINJAGO,39.99
-My First Emotions,DUPLO,19.99
-Batman: The Attack of the Talons,Batman,19.99
-Buzz & Woody's Carnival Mania!,Disney,49.99
-Volcano Rock City Concert,Trolls World Tour,39.99
-Stephanie's Buggy & Trailer ,Friends,19.99
-Road Repair Truck,Juniors,9.99
-Heartlake City Supermarket,Friends,29.99
-Katana V11,NINJAGO,19.99
-Elastigirl's Rooftop Pursuit,Juniors,19.99
-Rescue Helicopter,Technic,39.99
-Belle's Story Time,Juniors,14.99
-Thanos,BrickHeadz,9.99
-Spider-Man vs. Scorpion Street Showdown,Marvel,19.99
-City Advent Calendar,City,29.99
-Friends Advent Calendar,Friends,29.99
-Arctic Ice Crawler,City,24.99
-Burger Bar Fire Rescue,City,39.99
-My First Puzzle Pets,DUPLO,9.99
-1968 Ford Mustang Fastback,Speed Champions,14.99
-Elite Praetorian Guard Battle Pack,Star Wars,14.99
-Wonder Woman vs. Cheetah,DC,39.99
-Jay's Storm Fighter,NINJAGO,39.99
-Forest Tractor,City,19.99
-Mia's Horse Trailer,Friends,29.99
-Andrea's Bedroom,Friends,9.99
-Mountain Police Chase,Juniors,19.99
-Daredevil Stunt Plane,Creator 3-in-1,19.99
-Rocket Rally Car,Creator 3-in-1,19.99
-Dr. Fox Laboratory,Unikitty,29.99
-Police Helicopter Chase,City,39.99
-Stephanie's Obstacle Course,Friends,39.99
-Baking Competition,Friends,39.99
-Golden Mech,NINJAGO,39.99
-Batman Batsub and the Underwater Clash,Batman,19.99
-Batmobile: Pursuit of The Joker,Batman,29.99
-Friends Advent Calendar,Friends,29.99
-Mojo Jojo Strikes,Powerpuff Girls,29.99
-Bricks and Gears,Classic,19.99
-The Skull Arena,Minecraft,19.99
-Mia's Bedroom,Friends,9.99
-Han Solo's Landspeeder,Star Wars,29.99
-Chewbacca,Star Wars,9.99
-Farmers' Market,DUPLO,19.99
-Inferno Squad Battle Pack,Star Wars,14.99
-Spider-Man: Doc Ock Diamond Heist,Marvel,29.99
-Batman: Brother Eye Takedown,Batman,29.99
-Mr. Freeze Batcycle Battle,Batman,19.99
-Outback Adventures,Creator 3-in-1,19.99
-Jedi and Clone Troopers Battle Pack,Star Wars,14.99
-Ferrari 488 GT3 Scuderia Corsa,Speed Champions,14.99
-The Bat-Dune Buggy,DC,19.99
-Ambulance Helicopter,City,19.99
-LEGO Movie Maker,THE LEGO MOVIE 2,49.99
-Creative Tuning Shop,Friends,39.99
-Dorado Showdown,Overwatch,29.99
-Stormtrooper,Star Wars,9.99
-Spinjitzu Lloyd vs. Garmadon,NINJAGO,19.99
-Dozer Compactor,Technic,19.99
-Beauxbatons' Carriage: Arrival at Hogwarts ,Harry Potter,49.99
-Star Wars Advent Calendar,Star Wars,39.99
-My First Celebration,DUPLO,14.99
-Rhino Face-Off by the Mine,Marvel,19.99
-Iron Man Hulkbuster versus A.I.M. Agent,Marvel,39.99
-Junkrat & Roadhog,Overwatch,49.99
-Tiger Hot Air Balloon Jungle Rescue,Friends,39.99
-Avengers Truck Take-down,Marvel,39.99
-Ocean Exploration Submarine,City,39.99
-Townhouse Toy Store,Creator 3-in-1,39.99
-Space Rover Explorer,Creator 3-in-1,39.99
-Riverside Houseboat,Creator 3-in-1,39.99
-Iron Man MK50,BrickHeadz,9.99
-Rebel A-wing Starfighter,Star Wars,14.99
-Rapunzel's Castle Bedroom,Disney,19.99
-Zane's Ninja Boat Pursuit,Juniors,19.99
-Stephanie's Gymnastics Show,Friends,29.99
-The Redstone Battle,Minecraft,39.99
-Creative Fun,Classic,39.99
-Catamaran,Technic,49.99
-Spider Mech vs. Venom ,Marvel,49.99
-Pasaana Speeder Chase,Star Wars,39.99
-Enchanted Tree House,LEGO Frozen 2,49.99
-Pop Village Celebration,Trolls World Tour,49.99
-Haunted Fairground,Hidden Side,49.99
-Shrimp Shack Attack,Hidden Side,49.99
-Newbury Abandoned Prison,Hidden Side,39.99
-Thwomp Drop,LEGO Super Mario,39.99
-1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy,Speed Champions,49.99
-Superman & Krypto Team-Up,DC,19.99
-Black Ace TIE Interceptor,Star Wars,49.99
-Andrea's Pool Party,Friends,49.99
-Garage Centre,City,49.99
-AT-ST Raider,Star Wars,49.99
-Katana 4X4,NINJAGO,49.99
-Batwing and The Riddler Heist,Batman,49.99
-Fairground Carousel,Creator 3-in-1,49.99
-Stephanie's Soccer Practice,Friends,14.99
-Emma's Art Stand,Friends,19.99
-Batman and The Joker Escape,Batman,39.99
-The Hulkbuster Smash-Up,Marvel,29.99
-Imperial Dropship – 20th Anniversary Edition,Star Wars,19.99
-Raptor Rescue Truck,Juniors,24.99
-Frozen Ice Castle,Disney,49.99
-Throne Room Showdown,NINJAGO,19.99
-Monster Burger Truck,Creator 3-in-1,49.99
-WHACK!,Technic,19.99
-Service Station,City,49.99
-Anna & Olaf,BrickHeadz,14.99
-Andrea's Park Performance,Friends,24.99
-The Flash,DC,9.99
-Harry Potter Advent Calendar,Harry Potter,39.99
-Darth Maul,Star Wars,29.99
-Olivia's Deluxe Bedroom,Friends,14.99
-Cloud-Rider Swoop Bikes,Star Wars,29.99
-TIE Fighter Attack,Star Wars,19.99
-Brick-built Minions and their Lair,Minions,49.99
-Escape Pod vs. Dewback Microfighters,Star Wars,19.99
-Destiny's Wing,NINJAGO,19.99
-Mickey's Vacation House,Disney,49.99
-Fire Station,DUPLO,49.99
-Jay's Cyber Dragon,NINJAGO,49.99
-Hydro-Man Attack,Marvel,39.99
-Power Boat,Technic,14.99
-Thunder Raider,NINJAGO,49.99
-Police Helicopter Transport,City,49.99
-The Lighthouse of Darkness,Hidden Side,49.99
-D.Va & Reinhardt,Overwatch,39.99
-Pirate Ship,Minecraft,39.99
-Shimmer & Shine Sparkle Spa!,THE LEGO MOVIE 2,69.99
-Modular Sweet Surprises,Creator 3-in-1,39.99
-The Joker Batcave Attack,Batman,24.99
-Olivia's Mission Vehicle,Friends,19.99
-Modular Winter Vacation,Creator 3-in-1,34.99
-Belle's Tea Party,Disney,19.99
-Wyld-Mayhem Star Fighter,THE LEGO MOVIE 2,49.99
-City Central Airport,Juniors,49.99
-Spider-Man vs. Electro,Marvel,19.99
-Star Wars Advent Calendar,Star Wars,39.99
-Drifting Diner,Friends,29.99
-Gentle Giants Petting Zoo,Jurassic World,19.99
-San Francisco,Architecture,49.99
-Ariel's Castle,Disney,24.99
-Paranormal Intercept Bus 3000,Hidden Side,59.99
-Porsche 919 Hybrid,Speed Champions,14.99
-Mickey's Boat,Disney,29.99
-Baryonyx Face-Off: The Treasure Hunt,Jurassic World,59.99
-Avengers Hulk Helicopter Rescue,Marvel,59.99
-Iron Man Hall of Armour,Marvel,59.99
-Hagrid's Hut: Buckbeak's Rescue,Harry Potter,59.99
-Lighthouse Rescue Centre,Friends,59.99
-Twin-Rotor Helicopter,Creator 3-in-1,59.99
-Action Battle Echo Base Defence,Star Wars,59.99
-Heartlake City Restaurant,Friends,59.99
-Lunar Space Station,City,59.99
-Andrea's Accessories Store,Friends,29.99
-Triceratops Rampage,Jurassic World,59.99
-Heartlake City Hospital,Friends,49.99
-Thor's Weapon Quest,Marvel,19.99
-Millennium Falcon Microfighter,Star Wars,9.99
-Darth Vader,Star Wars,9.99
-T. rex Tower,Jurassic World,29.99
-Ahch-To Island Training,Star Wars,29.99
-Spider-Man's Spider Crawler ,Marvel,39.99
-Moloch's Landspeeder,Star Wars,39.99
-Underminer's Bank Heist,Juniors,24.99
-Friendship Box,Friends,49.99
-Paris,Architecture,49.99
-Emma's Deluxe Bedroom,Friends,14.99
-Rapunzel's Travelling Caravan,Disney,39.99
-Belle's Castle Winter Celebration,Disney,49.99
-Joker's Trike Chase,Batman,49.99
-Stephanie's Lakeside House,Friends,34.99
-Gallimimus and Pteranodon Breakout,Jurassic World,49.99
-Kai's Blade Cycle & Zane's Snowmobile,NINJAGO,29.99
-Lamborghini Urus ST-X & Huracán Super Trofeo EVO ,Speed Champions,49.99
-Beach House,Friends,49.99
-Guarded Fortress,LEGO Super Mario,49.99
-Deluxe Brick Box,DUPLO,49.99
-Las Vegas,Architecture,39.99
-Stunt Show Truck & Bike,Technic,49.99
-Chevrolet Corvette ZR1,Technic,49.99
-Stygimoloch Breakout,Jurassic World,29.99
-Ocean's Bottom,Classic,29.99
-Police Monster Truck Heist,City,59.99
-Death Star Escape,Star Wars,29.99
-Mia's Tree House,Friends,29.99
-Andrea's Talent Show,Friends,49.99
-Steam Train,DUPLO,59.99
-Boba Fett,Star Wars,59.99
-Fire Plane,City,59.99
-Porsche 911 RSR and 911 Turbo 3.0,Speed Champions,29.99
-Peter Venkman & Slimer,BrickHeadz,19.99
-Harvester Transport,City,29.99
-Stormtrooper,Star Wars,59.99
-Resistance Y-wing Starfighter,Star Wars,69.99
-Stark Jet and the Drone Attack,Spider-Man,69.99
-Hogwarts Whomping Willow,Harry Potter,69.99
-Major Vonreg's TIE Fighter,Star Wars,69.99
-Fire Station,City,69.99
-Large Playground Brick Box,DUPLO,49.99
-Tokyo,Architecture,59.99
-D-O,Star Wars,69.99
-Dubai,Architecture,59.99
-Emma's Art Studio,Friends,24.99
-The Flintstones,Ideas,59.99
-Lex Luthor Mech Takedown,DC,39.99
-Pop-Up Party Bus,THE LEGO MOVIE 2,79.99
-The Illager Raid,Minecraft,59.99
-The Big Race Day,Friends,59.99
-Avengers Wrath of Loki,Marvel,59.99
-Central Airport,City,59.99
-The Great Home Escape,Juniors,29.99
-Shanghai,Architecture,59.99
-Tropical Island,DUPLO,59.99
-Modular Playhouse,DUPLO,59.99
-Iron Man,Marvel,59.99
-Phantom Fire Truck 3000,Hidden Side,59.99
-Central Perk,Ideas,59.99
-Dinosaur Fossils,Ideas,59.99
-Batman Mech vs. Poison Ivy Mech ,Batman,39.99
-Mobile Stunt Show,Creator 3-in-1,49.99
-The Melon Farm,Minecraft,14.99
-Mia's House,Friends,69.99
-Hermione Granger,BrickHeadz,9.99
-Street Race of Snake Jaguar,NINJAGO,29.99
-Snoke's Throne Room,Star Wars,69.99
-Hogwarts Express,Harry Potter,79.99
-Elsa's Ice Palace,LEGO Frozen 2,79.99
-Arendelle Castle,LEGO Frozen 2,79.99
-Yoda's Hut,Star Wars,29.99
-Dirt Road Pursuit,City,39.99
-Emmet and Lucy's Escape Buggy!,THE LEGO MOVIE 2,49.99
-Cruising Adventures,Creator 3-in-1,59.99
-Royal Talon Fighter Attack,Marvel,29.99
-Pickup & Caravan,City,29.99
-Arctic Air Transport,City,39.99
-Bastion,Overwatch,49.99
-Aladdin's and Jasmine's Palace Adventures,Disney,29.99
-The Polar Igloo,Minecraft,29.99
-Watchpoint: Gibraltar,Overwatch,89.99
-Unikingdom Creative Brick Box,Unikitty,39.99
-Blue's Helicopter Pursuit,Jurassic World,39.99
-Stephanie's Sports Arena,Friends,44.99
-Ducati Panigale V4 R,Technic,69.99
-Heavy Cargo Transport,City,29.99
-Heartlake City Airplane,Friends,69.99
-4 Privet Drive,Harry Potter,69.99
-Friendship Bus,Friends,69.99
-Caravan Family Holiday,Creator 3-in-1,69.99
-People Pack - Outdoor Adventures,City,39.99
-Tactical Batman & Superman,BrickHeadz,19.99
-Mining Heavy Driller,City,49.99
-International Space Station,Ideas,69.99
-Knights of Ren Transport Ship,Star Wars,69.99
-The Crafting Box 3.0,Minecraft,69.99
-The Nether Portal,Minecraft,39.99
-T. Rex Breakout,Juniors,49.99
-Empire Temple of Madness,NINJAGO,79.99
-Lloyd's Titan Mech,NINJAGO,79.99
-Monastery of Spinjitzu,NINJAGO,79.99
-Mos Eisley Cantina,Star Wars,39.99
-S.O.G. Headquarters,NINJAGO,39.99
-First Order AT-ST,Star Wars,39.99
-Townhouse Pet Shop & Café,Creator 3-in-1,79.99
-Arctic Scout Truck,City,59.99
-Spider-Man & Hulk Adventures,DUPLO,29.99
-General Grievous' Combat Speeder,Star Wars,29.99
-Sunshine Surfer Van,Creator 3-in-1,34.99
-The Nether Fight,Minecraft,14.99
-Racing Yacht,Technic,39.99
-Trafalgar Square,Architecture,79.99
-The Ultra Dragon,NINJAGO,84.99
-Ariel & Ursula,BrickHeadz,19.99
-Darth Vader,Star Wars,39.99
-TRON: Legacy,Ideas,34.99
-Clone Scout Walker – 20th Anniversary Edition,Star Wars,29.99
-General Grievous's Starfighter,Star Wars,79.99
-Sith TIE Fighter,Star Wars,79.99
-Venomosaurus Ambush,Marvel,79.99
-The Creeper Mine,Minecraft,79.99
-Ocean Exploration Base,City,79.99
-Jungle Rescue Base,Friends,79.99
-Avengers Ultimate Quinjet,Marvel,79.99
-Avengers Compound Battle,Marvel,99.99
-Party Boat,Friends,79.99
-Remote-Controlled Stunt Racer,Technic,99.99
-Rescue Mission Boat,Friends,89.99
-Donut Shop Opening,City,89.99
-Great Wall of China,Architecture,49.99
-Ariel's Royal Celebration Boat,Disney,49.99
-Mountain Arrest,City,59.99
-Modular Skate House,Creator 3-in-1,39.99
-Harry Potter & Hedwig,BrickHeadz,14.99
-Farm Pony Stable,DUPLO,29.99
-First Responder,Technic,49.99
-Air Base,City,89.99
-Emma's Art Café,Friends,32.99
-Emmet's Dream House/Rescue Rocket!,THE LEGO MOVIE 2,69.99
-Diamond Heist,City,59.99
-AT-AP Walker,Star Wars,59.99
-Pop-Up Book,Ideas,69.99
-Snowspeeder – 20th Anniversary Edition,Star Wars,39.99
-Go Brick Me,BrickHeadz,29.99
-Poe Dameron's X-wing Fighter,Star Wars,89.99
-T. rex vs Dino-Mech Battle,Jurassic World,89.99
-Hogwarts Clock Tower,Harry Potter,89.99
-Mission to Mars,Classic,59.99
-Avengers Tower Battle,Marvel,89.99
-Mobile Bat Base,DC,89.99
-Fiat 500,Creator Expert,89.99
-Steamboat Willie,Ideas,89.99
-Yoda,Star Wars,99.99
-Castle of the Forsaken Emperor,NINJAGO,99.99
-Deep Space Rocket and Launch Control,City,99.99
-Downtown Fire Brigade,City,99.99
-Thanos: Ultimate Battle,Marvel,69.99
-Queen Watevra's ‘So-Not-Evil' Space Palace,THE LEGO MOVIE 2,99.99
-Stormbringer,NINJAGO,39.99
-Adventures with Mario,LEGO Super Mario,59.99
-"Ariel, Aurora, and Tiana's Royal Celebration",Disney,39.99
-Oni Titan,NINJAGO,49.99
-Boba Fett,Star Wars,29.99
-Cole's Earth Driller ,NINJAGO,49.99
-World Animals,DUPLO,99.99
-Statue of Liberty,Architecture,119.99
-Rapunzel's Tower,DUPLO,29.99
-NASA Apollo 11 Lunar Lander,Creator Expert,99.99
-Harley-Davidson Fat Boy,Creator Expert,99.99
-Batcave Clayface Invasion,Batman,99.99
-The White House,Architecture,99.99
-Dom's Dodge Charger,Technic,99.99
-Passenger Airplane,City,99.99
-Summer Fun Water Park,Friends,99.99
-Pirate Ship,Creator 3-in-1,99.99
-Range Trooper,Star Wars,24.99
-Sweet Mayhem's Systar Starship!,THE LEGO MOVIE 2,69.99
-Indominus rex vs. Ankylosaurus,Jurassic World,99.99
-Crocodile Locomotive,Creator Expert,99.99
-Hogwarts Astronomy Tower,Harry Potter,99.99
-Hogwarts Great Hall,Harry Potter,99.99
-Gingerbread House,Creator Expert,99.99
-Rex's Rexplorer!,THE LEGO MOVIE 2,119.99
-Mobile Crane,Technic,99.99
-Mystery Castle,Hidden Side,99.99
-Police Station,City,99.99
-Tuning Workshop,City,99.99
-Ghost Train Express,Hidden Side,79.99
-Defense of Crait,Star Wars,84.99
-Imperial AT-Hauler,Star Wars,99.99
-Arctic Supply Plane,City,79.99
-Ninja Nightcrawler,NINJAGO,39.99
-T. Rex Transport,Jurassic World,69.99
-Empire State Building,Architecture,129.99
-Imperial Conveyex Transport,Star Wars,89.99
-Land Bounty,NINJAGO,129.99
-Heartlake City Amusement Pier,Friends,129.99
-Speed Force Freeze Pursuit,DC,29.99
-Avengers Helicarrier,Marvel,119.99
-Andy Warhol's Marilyn Monroe,LEGO Art,119.99
-Slave I - 20th Anniversary Edition,Star Wars,119.99
-The Beatles,LEGO Art,119.99
-Star Wars The Sith,LEGO Art,119.99
-Firstbourne,NINJAGO,69.99
-Corvus Glaive Thresher Attack,Marvel,39.99
-Heavy Duty Forklift,Technic,69.99
-Porsche 911 RSR,Technic,149.99
-Cargo Train,DUPLO,119.99
-Hovercraft,Technic,89.99
-App-Controlled Top Gear Rally Car,Powered UP,129.99
-Kylo Ren's Shuttle,Star Wars,129.99
-Darth Vader's Castle,Star Wars,129.99
-Ferrari Ultimate Garage,Speed Champions,99.99
-Newbury Haunted High School,Hidden Side,129.99
-The Razor Crest,Star Wars,129.99
-Porg,Star Wars,69.99
-Tracked Loader,Technic,79.99
-Passenger Train,City,159.99
-Rocket Assembly &Transport,City,149.99
-Carnotaurus Gyrosphere Escape,Jurassic World,79.99
-Sleeping Beauty's Fairytale Castle,Disney,39.99
-App-Controlled Batmobile,DC,99.99
-The Skeleton Attack,Minecraft,39.99
-Mia's Camper Van,Friends,54.99
-Mountain Police Headquarters,City,89.99
-Droid Gunship,Star Wars,49.99
-Ford Mustang,Creator Expert,149.99
-Ocean Exploration Ship,City,149.99
-The Bat-Space Shuttle,DC,79.99
-Ship in a Bottle,Ideas,69.99
-Arctic Mobile Exploration Base,City,119.99
-Forest Harvester,Technic,149.99
-Cinderella's Dream Castle,Disney,69.99
-Millennium Falcon,Star Wars,159.99
-Killow vs. Samurai X,NINJAGO,49.99
-Heartlake City Pet Centre,Friends,59.99
-Rally Car,Technic,109.99
-The Bedrock Adventures,Minecraft,89.99
-X-wing Starfighter,Star Wars,79.99
-Compact Crawler Crane,Technic,99.99
-Pirate Roller Coaster,Creator 3-in-1,89.99
-Imperial Landing Craft,Star Wars,89.99
-Volvo Concept Wheel Loader ZEUX,Technic,139.99
-Land Rover Defender,Technic,199.99
-Car Transporter,Technic,179.99
-Bookshop,Creator Expert,179.99
-Cargo Train,City,229.99
-Friendship House,Friends,69.99
-Vestas Wind Turbine,Creator Expert,199.99
-The Hulkbuster: Ultron Edition,Marvel,119.99
-Dragon Pit,NINJAGO,129.99
-Sanctum Sanctorum Showdown,Marvel,99.99
-Droid Commander,Star Wars,199.99
-The Farm Cottage ,Minecraft,49.99
-The Upside Down,Stranger Things,199.99
-Corner Garage,Creator Expert,199.99
-Tantive IV,Star Wars,199.99
-A-wing Starfighter,Star Wars,199.99
-Pirates of Barracuda Bay,Ideas,199.99
-Imperial TIE Fighter,Star Wars,69.99
-Indoraptor Rampage at Lockwood Estate,Jurassic World,129.99
-City Hospital,City,99.99
-Dieselnaut,NINJAGO,109.99
-Sandcrawler,Star Wars,139.99
-4x4 X-Treme Off-Roader,Powered UP,249.99
-The Rexcelsior!,THE LEGO MOVIE 2,149.99
-Heartlake City Resort,Friends,99.99
-AT-AT,Star Wars,159.99
-Mining Experts Site,City,99.99
-Capital City,City,149.99
-6x6 Volvo Articulated Hauler,Technic,249.99
-Downtown Diner,Creator Expert,169.99
-Kessel Run Millennium Falcon,Star Wars,169.99
-Temple of Resurrection,NINJAGO,69.99
-Rough Terrain Crane,Technic,299.99
-Old Trafford - Manchester United,Creator Expert,299.99
-Farm Adventures,DUPLO,59.99
-Mack Anthem,Technic,179.99
-Bugatti Chiron,Technic,349.99
-Roller Coaster,Creator Expert,379.99
-Voltron,Ideas,179.99
-Hogwarts Castle,Harry Potter,399.99
-NINJAGO City Docks,NINJAGO,229.99
-Liebherr R 9800,Powered UP,449.99
-Betrayal at Cloud City,Star Wars,349.99
-Imperial Star Destroyer,Star Wars,699.99
-Battle of Endor,Star Wars,14.99
-Mini Frame,DOTS,4.99
-Creative Picture Frames,DOTS,19.99
-Farm - Girl,DUPLO,3.49
-Monkie Kid's Delivery Bike,Monkie Kid,4.99
-Road Worker,City,3.99
-Police Water Plane,City,3.99
-Arctic Ice Saw,City,3.99
-Space Satellite,City,3.99
-Beach Buggy,City,4.99
-Baby Velociraptor Playpen,Jurassic World,3.99
-Olivia's Remote Control Boat,Friends,3.99
-Unikitty Roller Coaster Wagon,Unikitty,3.99
-Chocolate Box & Flower,Friends,4.99
-Royal Talon Fighter,Marvel,3.99
-Rex's Plantimal Ambush,THE LEGO MOVIE 2,3.99
-The Guardians' Ship,Marvel,3.99
-Poppy's Carriage,Trolls World Tour,4.99
-DJ,Star Wars,4.99
-Traffic Lights,Xtra,3.99
-Streetlamps,Xtra,3.99
-Ninjago Minifigure Pack,NINJAGO,12.99
-Spider-Man and the Museum Break-In,Marvel,14.99
-Summer Celebration Minifigure Pack,Minifigures,12.99
-Police MF Accessory Set,Minifigures,12.99
-Fairground Accessory Set,Minifigures,12.99
-Sports Accessories,Xtra,3.99
-Botanical Accessories,Xtra,3.99
-Falcon & Black Widow Team-Up,Marvel,14.99
-Spinjitzu Burst - Cole,NINJAGO,9.99
-Spinjitzu Burst Lloyd,NINJAGO,9.99
-Golden Zane Accessory Set ,NINJAGO,12.99
-Stephanie's Play Cube - Beauty Salon,Friends,9.99
-Andrea's Jungle Play Cube,Friends,9.99
-Stephanie's Jungle Play Cube,Friends,9.99
-Olivia's Jungle Play Cube,Friends,9.99
-Mia's Jungle Play Cube,Friends,9.99
-Obi-Wan Kenobi - Collectable Minifigure,Star Wars,3.99
-My First Dinosaur,DUPLO,3.49
-Hogwarts Students Accessory Set,Harry Potter,14.99
-My First Balancing Animals,DUPLO,14.99
-Bulldozer,DUPLO,9.99
-Creative Fun,DUPLO,39.99
-Truck & Tracked Excavator,DUPLO,19.99
-Mister Miracle,DC,4.99
-Piñata Boy,Minifigures,4.99
-Batcave,Batman,29.99
-Ariel's Undersea Castle,Disney,29.99
-Creative Animals,DUPLO,59.99
-Harry Potter,Harry Potter,4.99
-Cute Pug,Creator 3-in-1,3.99
-Wrecking Ball Demolition,DUPLO,59.99
-Thanksgiving Turkey,BrickHeadz,9.99
-Lightning McQueen's Race Day,Disney,29.99
-Donald Duck,Disney,9.99
-Emma's Pet Party,Friends,9.99
-Wonder Woman,BrickHeadz,9.99
-Easter Chick,BrickHeadz,9.99
-Olaf's Traveling Sleigh,Disney,12.99
-Valentine's Bear,BrickHeadz,9.99
-Lucky Cat,BrickHeadz,9.99
-Birthday Clown,BrickHeadz,9.99
-Valentine's Puppy,BrickHeadz,9.99
-Dragon Dance Guy,BrickHeadz,9.99
-Lady Liberty,BrickHeadz,9.99
-Easter Sheep,BrickHeadz,9.99
-Wedding Bride,BrickHeadz,12.99
-Wedding Groom,BrickHeadz,12.99
-Fun Future,Classic,9.99
-Tower Crane & Construction,DUPLO,129.99
-Lucy's Builder Box!,THE LEGO MOVIE 2,29.99
-Emmet's Builder Box!,THE LEGO MOVIE 2,29.99
-Quantum Realm Explorers,Marvel,19.99
-Moana's Island Home,Disney,29.99
-People Pack - Space Research and Development,City,39.99
-Wu's Battle Dragon,NINJAGO,19.99
-Iron Man Armory,Marvel,29.99
-Bricks Bricks Bricks,Classic,59.99
-Marty McFly & Doc Brown,BrickHeadz,19.99
-Diagon Alley,Harry Potter,19.99
-Dilophosaurus Outpost Attack,Jurassic World,39.99
-Ron Weasley & Albus Dumbledore,BrickHeadz,19.99
-Battle of Hoth - 20th Anniversary Edition,Star Wars,14.99
-Goofy & Pluto,Disney,14.99
-Mulan's Training Grounds,Disney,29.99
-Funny Octopus Ride,Friends,39.99
-Kylo Ren & Sith Trooper,Star Wars,19.99
-Owen & Blue,BrickHeadz,19.99
-Black Widow's Helicopter Chase,Marvel,29.99
-Venom Crawler,Marvel,29.99
-Armored Assault Tank (AAT),Star Wars,39.99
-Captain Marvel and The Skrull Attack,Marvel,29.99
-Mr. & Mrs. Claus,BrickHeadz,19.99
-Death Star II Battle,Star Wars,14.99
-501st Legion Clone Troopers,Star Wars,29.99
-Hoth Medical Chamber,Star Wars,29.99
-Sandspeeder,Star Wars,29.99
-Bricks and Eyes ,Classic,29.99
-Stephanie's House,Friends,39.99
-Emmet's Triple-Decker Couch Mech,THE LEGO MOVIE 2,29.99
-Journey to the Skull Dungeons,NINJAGO,29.99
-Bespin Duel,Star Wars,39.99
-White Dragon Horse Bike,Monkie Kid,34.99
-"Reindeer, Elf and Elfie",BrickHeadz,19.99
-Storm Fighter Battle,NINJAGO,29.99
-Bricks and Animals,Classic,59.99
-Spinning Brushes Car Wash,Friends,29.99
-Air Race,City,39.99
-Bricks and Lights,Classic,29.99
-Quidditch Match,Harry Potter,39.99
-Iron Bull Tank,Monkie Kid,49.99
-Rainbow Caterbus,Trolls World Tour,39.99
-Kai Fighter,NINJAGO,39.99
-Jurassic Park Velociraptor Chase ,Jurassic World,39.99
-Winter Village Fire Station,Creator Expert,99.99
-Fire Stone Mech,NINJAGO,69.99
-Death Star Final Duel,Star Wars,99.99
-Resistance I-TS Transport,Star Wars,99.99
-Bricks Bricks Plates,Classic,69.99
-TIE Fighter Pilot,Star Wars,59.99
-Hedwig,Harry Potter,39.99
-Tree House Treasures ,Creator 3-in-1,29.99
-Monkie Kid's Cloud Jet,Monkie Kid,59.99
-Zane's Mino Creature,NINJAGO,49.99
-James Bond Aston Martin DB5,Creator Expert,149.99
-Attack on The Burrow,Harry Potter,99.99
-Police Brick Box,City,39.99
-Outback Cabin,Creator 3-in-1,29.99
-Demon Bull King,Monkie Kid,89.99
-Skull Sorcerer's Dragon,NINJAGO,79.99
-Vibe City Concert,Trolls World Tour,59.99
-Alpaca Mountain Jungle Rescue,Friends,59.99
-Pigsy's Food Truck,Monkie Kid,69.99
-Concrete Mixer Truck,Technic,119.99
-Heartlake City Brick Box,Friends,39.99
-Y-wing Starfighter,Star Wars,199.99
-Mickey Mouse and Minnie Mouse,Disney,179.99
-Red Son's Inferno Truck,Monkie Kid,119.99
-Skull Sorcerer's Dungeons,NINJAGO,99.99
-Monkey King Warrior Mech,Monkie Kid,149.99
-Haunted House,Creator Expert,249.99
-Destiny's Bounty,NINJAGO,129.99
-Ski Resort,City,89.99
-Disney Train and Station,Powered UP,329.99
-1989 Batmobile,Batman,249.99
-Tree House,Ideas,199.99
-Welcome to Apocalypseburg!,THE LEGO MOVIE 2,299.99
-Jurassic Park: T. rex Rampage,Jurassic World,249.99
-Monkie Kid's Team Secret HQ,Monkie Kid,169.99
-Grand Piano,Ideas,349.99
-Lamborghini Sián FKP 37,Technic,379.99
-Lamborghini Huracán Super Trofeo EVO,Speed Champions,4.99
-Marvel Studios Iron Man,LEGO Art,119.99
-Food Accessories,Xtra,3.99
-Botanical Accessories,Xtra,3.99
-Bicycles,Xtra,3.99
-Sea Accessories,Xtra,3.99
-Monkey King,BrickHeadz,9.99
-Batman,LEGO Brick Sketches,19.99
-First Order Stormtrooper,Star Wars,19.99
-Hagrid & Buckbeak,Harry Potter,19.99
-Frankenstein,BrickHeadz,9.99
-The Joker,LEGO Brick Sketches,19.99
-BB-8,Star Wars,19.99
-Friends Advent Calendar,Friends,29.99
-Coding Express,LEGO Education,198.95
-Tubes,LEGO Education,139.95
-My XL World,LEGO Education,239.95
-Expansion Set,LEGO Education,99.95
-City Advent Calendar,City,29.99
-Main Square,City,199.99
-Paragoomba,LEGO Super Mario,4.99
-Nintendo Entertainment System,LEGO Super Mario,229.99
-King Boo and the Haunted Yard,LEGO Super Mario,49.99
-Star Wars Advent Calendar,Star Wars,39.99
-Mos Eisley Cantina,Star Wars,349.99
-Diagon Alley,Harry Potter,399.99
-Harry Potter Advent Calendar,Harry Potter,39.99
-Wonder Woman,DC,39.99
-Sandy's Speedboat,Monkie Kid,59.99
-Monkie Kid's Cloud Roadster,Monkie Kid,69.99
-The Flaming Foundry,Monkie Kid,139.99
-Headlight Set,Powered UP,9.99
-Boost Hub,Powered UP,79.99
-Distance Sensor,Powered UP,13.99
-Motor,Powered UP,16.99
-Hub,Powered UP,49.99
-Remote Control,Powered UP,22.99
-Train motor,Powered UP,13.99
-Technic Hub,Powered UP,89.99
-Technic Large Motor,Powered UP,39.99
-Technic XL Motor,Powered UP,39.99
-Rainbow Bracelet,DOTS,4.99
-Rapunzel's Tower,Disney,59.99
-Aurora's Forest Cottage,Disney,39.99
-SPIKE Prime Set,LEGO Education,329.95
-Mario's House & Yoshi,LEGO Super Mario,29.99
-Toad's Treasure Hunt,LEGO Super Mario,69.99
-Bowser's Castle Boss Battle,LEGO Super Mario,99.99
-Propeller Mario Power-Up Pack,LEGO Super Mario,9.99
+Set_Name,Theme,Pieces,Price,Pages,Minifigures,Unique_Pieces
+Stephanie's Summer Heart Box,Friends,95.0,7.99,40.0,1.0,52.0
+Woody & RC,Disney,69.0,9.99,28.0,1.0,36.0
+Mia's Summer Heart Box,Friends,85.0,7.99,36.0,1.0,41.0
+Olivia's Summer Heart Box,Friends,93.0,7.99,40.0,2.0,48.0
+Police Patrol Car,City,92.0,9.99,36.0,1.0,52.0
+Prince Puppycorn Trike,Unikitty,101.0,9.99,56.0,3.0,65.0
+Kai Avatar - Arcade Pod,NINJAGO,49.0,9.99,3.0,2.0,31.0
+Jay Avatar - Arcade Pod,NINJAGO,47.0,9.99,3.0,2.0,28.0
+Police Bike,DUPLO,8.0,9.99,10.0,1.0,7.0
+Pizza Stand,DUPLO,18.0,9.99,12.0,1.0,15.0
+Emma's Mobile Veterinary Clinic ,Friends,50.0,9.99,28.0,1.0,35.0
+Barbecue Burn Out,City,64.0,9.99,28.0,2.0,45.0
+Monster Truck,City,55.0,9.99,32.0,1.0,34.0
+Jet Patrol,City,54.0,9.99,36.0,2.0,45.0
+Construction Loader,City,88.0,9.99,36.0,1.0,50.0
+Stunt Team,City,62.0,9.99,36.0,2.0,34.0
+Cole's Speeder Car,NINJAGO,52.0,9.99,36.0,2.0,32.0
+Ice Cream Cart,Friends,97.0,9.99,40.0,1.0,60.0
+Puppy Playground,Friends,57.0,9.99,40.0,1.0,41.0
+Police Dog Unit,City,67.0,9.99,40.0,2.0,48.0
+Resistance Y-wing Microfighter,Star Wars,86.0,9.99,40.0,1.0,44.0
+Street Sweeper,City,89.0,9.99,48.0,1.0,55.0
+Mail Plane,City,74.0,9.99,52.0,1.0,55.0
+Satellite Service Mission,City,84.0,9.99,56.0,1.0,52.0
+Forest Fire,City,84.0,9.99,56.0,1.0,49.0
+Jungle Raider,NINJAGO,127.0,9.99,60.0,1.0,61.0
+Unikitty Cloud Car,Unikitty,126.0,9.99,60.0,3.0,83.0
+Ocean Mini-Submarine,City,41.0,9.99,37.0,1.0,30.0
+Olivia's Flower Garden,Friends,92.0,9.99,48.0,2.0,61.0
+Aurora's Royal Carriage,Disney,62.0,9.99,28.0,1.0,35.0
+Lloyd Avatar - Arcade Pod,NINJAGO,48.0,9.99,3.0,2.0,28.0
+Moana's Ocean Adventure,Disney,46.0,9.99,36.0,1.0,39.0
+The Taiga Adventure,Minecraft,74.0,9.99,40.0,2.0,48.0
+Kylo Ren's Shuttle Microfighter,Star Wars,72.0,9.99,40.0,1.0,40.0
+Thanos Mech,Marvel,152.0,9.99,56.0,1.0,62.0
+Iron Man Mech,Marvel,148.0,9.99,64.0,1.0,61.0
+Spider-Man Mech,Marvel,152.0,9.99,68.0,1.0,62.0
+Batboat The Penguin Pursuit!,Batman,54.0,9.99,44.0,2.0,41.0
+Mighty Micros: Scarlet Spider vs. Sandman,Marvel,89.0,9.99,7.0,2.0,49.0
+Arctic Exploration Team,City,70.0,9.99,28.0,3.0,47.0
+Unikitty's Sweetest Friends EVER!,THE LEGO MOVIE 2,76.0,9.99,36.0,3.0,50.0
+Olivia's Heart Box,Friends,85.0,7.99,32.0,2.0,38.0
+Chevrolet Camaro ZL1 Race Car,Speed Champions,198.0,14.99,60.0,1.0,81.0
+McLaren Senna,Speed Champions,219.0,14.99,64.0,1.0,92.0
+1974 Porsche 911 Turbo 3.0,Speed Champions,180.0,14.99,80.0,1.0,75.0
+Sith Troopers Battle Pack,Star Wars,105.0,14.99,40.0,3.0,51.0
+Mandalorian Battle Pack,Star Wars,102.0,14.99,44.0,4.0,59.0
+Playroom,DUPLO,17.0,14.99,2.0,2.0,16.0
+Death Star Cannon,Star Wars,159.0,19.99,80.0,2.0,79.0
+Arctic Ice Glider,City,50.0,6.99,28.0,1.0,30.0
+Spinjitzu Slam - Jay,NINJAGO,72.0,9.99,44.0,1.0,37.0
+Emma's Summer Heart Box,Friends,86.0,7.99,36.0,1.0,45.0
+Bedroom,DUPLO,16.0,14.99,2.0,2.0,16.0
+Stephanie's Heart Box,Friends,85.0,7.99,32.0,1.0,36.0
+Andrea's Summer Heart Box,Friends,83.0,7.99,36.0,1.0,46.0
+Cole - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,54.0
+The Samurai Mech,NINJAGO,154.0,14.99,48.0,3.0,71.0
+Introducing Queen Watevra Wa'Nabi,THE LEGO MOVIE 2,115.0,19.99,48.0,4.0,82.0
+Ferrari F40 Competizione,Speed Champions,198.0,14.99,56.0,1.0,72.0
+Spinjitzu Slam - Lloyd,NINJAGO,70.0,9.99,44.0,1.0,34.0
+Mia's Play Cube - Cinema,Friends,37.0,9.99,5.0,1.0,31.0
+Monastery Training,NINJAGO,122.0,9.99,40.0,2.0,65.0
+Systar Party Crew,THE LEGO MOVIE 2,196.0,19.99,80.0,2.0,104.0
+Party Time,Unikitty,214.0,19.99,80.0,4.0,119.0
+Mulan's Storybook Adventures,Disney,124.0,19.99,3.0,3.0,72.0
+Toy Story Train,Disney,21.0,19.99,8.0,2.0,19.0
+Carnival Thrill Coaster,Disney,98.0,19.99,44.0,2.0,56.0
+Expecto Patronum,Harry Potter,121.0,19.99,48.0,3.0,55.0
+Vulture's Trucker Robbery,Marvel,93.0,19.99,48.0,3.0,62.0
+Captain America: Outriders Attack,Marvel,167.0,19.99,52.0,3.0,75.0
+Cole's Dirt Bike,NINJAGO,212.0,19.99,56.0,3.0,97.0
+The Rise of Voldemort,Harry Potter,184.0,19.99,56.0,6.0,102.0
+Mia's Foal Stable ,Friends,118.0,19.99,64.0,1.0,66.0
+Welcome to the Hidden Side,Hidden Side,189.0,19.99,68.0,4.0,103.0
+The Chicken Coop,Minecraft,198.0,19.99,72.0,1.0,90.0
+The End Battle,Minecraft,222.0,19.99,72.0,2.0,91.0
+Construction Bulldozer,City,126.0,19.99,84.0,2.0,81.0
+Avengers Speeder Bike Attack,Marvel,226.0,19.99,104.0,3.0,97.0
+Snow Groomer,City,197.0,19.99,60.0,2.0,81.0
+Anna's Canoe Expedition,LEGO Frozen 2,108.0,19.99,64.0,2.0,61.0
+Diving Yacht,City,148.0,19.99,64.0,2.0,81.0
+Emmet's Thricycle!,THE LEGO MOVIE 2,174.0,14.99,84.0,1.0,100.0
+Garbage Truck,City,90.0,19.99,40.0,2.0,52.0
+Anna and Elsa's Storybook Adventures,LEGO Frozen 2,133.0,19.99,3.0,4.0,71.0
+Ariel's Storybook Adventures,Disney,105.0,19.99,3.0,3.0,61.0
+Belle's Storybook Adventures,Disney,111.0,19.99,3.0,5.0,71.0
+Mountain Fugitives,City,88.0,9.99,36.0,4.0,61.0
+Jasmine's Petite Tower,Disney,49.0,9.99,24.0,1.0,35.0
+Poppy's Pod,Trolls World Tour,103.0,19.99,68.0,1.0,70.0
+Techno Reef Dance Party,Trolls World Tour,173.0,19.99,72.0,1.0,85.0
+The Zombie Cave,Minecraft,241.0,19.99,84.0,3.0,88.0
+Emma's Play Cube - Toy Store,Friends,49.0,9.99,5.0,1.0,42.0
+Andrea's Heart Box,Friends,84.0,7.99,32.0,1.0,38.0
+Speed Record Car,City,78.0,9.99,40.0,1.0,47.0
+Jack's Beach Buggy,Hidden Side,170.0,19.99,56.0,3.0,98.0
+The Wool Farm,Minecraft,260.0,19.99,80.0,1.0,81.0
+Duel on Mustafar ,Star Wars,208.0,19.99,80.0,2.0,84.0
+Rex's Rex-treme Offroader!,THE LEGO MOVIE 2,236.0,29.99,132.0,2.0,109.0
+Imperial Patrol Battle Pack,Star Wars,99.0,14.99,36.0,3.0,43.0
+The Panda Nursery,Minecraft,204.0,19.99,48.0,1.0,76.0
+Good Morning Sparkle Babies!,THE LEGO MOVIE 2,50.0,9.99,32.0,4.0,44.0
+Unstoppable Bike Chase,Minions,136.0,19.99,60.0,3.0,79.0
+Ice-Cream Truck,City,200.0,19.99,100.0,2.0,112.0
+Emma's Heart Box,Friends,85.0,7.99,32.0,1.0,38.0
+Mulan's Training Day,Disney,104.0,14.99,36.0,1.0,62.0
+Elsa and Olaf's Tea Party,DUPLO,17.0,19.99,12.0,2.0,13.0
+Olivia's Play Cube - Researcher,Friends,40.0,9.99,5.0,1.0,34.0
+Mia's Play Cube - Veterinarian,Friends,40.0,9.99,5.0,1.0,32.0
+Emma's Play Cube - Photographer,Friends,36.0,9.99,5.0,1.0,31.0
+Andrea's Car & Stage,Friends,240.0,19.99,68.0,2.0,116.0
+Submarine Adventure,DUPLO,24.0,19.99,8.0,2.0,22.0
+Fire Truck,DUPLO,21.0,19.99,10.0,2.0,16.0
+Minnie's Birthday Party,Disney,21.0,19.99,12.0,1.0,18.0
+Spinjitzu Zane,NINJAGO,109.0,9.99,32.0,1.0,21.0
+Juice Truck,Friends,103.0,19.99,52.0,2.0,75.0
+Kai's Fire Dragon,NINJAGO,81.0,19.99,60.0,2.0,48.0
+Safari Off-Roader,City,168.0,19.99,76.0,2.0,86.0
+Heartlake City Hair Salon,Friends,235.0,19.99,84.0,2.0,138.0
+T-16 Skyhopper vs Bantha Microfighters,Star Wars,198.0,19.99,84.0,2.0,100.0
+Kai's Mech Jet,NINJAGO,217.0,19.99,116.0,2.0,94.0
+Naboo Starfighter Microfighter,Star Wars,62.0,9.99,36.0,1.0,42.0
+Spinjitzu Slam - Zane,NINJAGO,63.0,9.99,40.0,1.0,37.0
+Stephanie's Play Cube - Baker,Friends,44.0,9.99,5.0,1.0,37.0
+Mia's Heart Box,Friends,83.0,7.99,32.0,1.0,38.0
+Olivia's Play Cube - Sweet Shop,Friends,47.0,9.99,5.0,1.0,40.0
+Desert Rally Racer,City,75.0,9.99,36.0,1.0,45.0
+Andrea's Play Cube - Singer,Friends,49.0,9.99,5.0,1.0,32.0
+Rapunzel's Small Tower,Disney,44.0,9.99,24.0,1.0,28.0
+Mia's Forest Adventures ,Friends,134.0,14.99,44.0,1.0,77.0
+Nissan GT-R NISMO,Speed Champions,298.0,19.99,80.0,1.0,101.0
+Cole - Spinjitzu Master,NINJAGO,73.0,9.99,32.0,1.0,40.0
+Zane - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,54.0
+Mighty Micros: Star-Lord vs. Nebula,Marvel,86.0,9.99,7.0,2.0,45.0
+Zane - Spinjitzu Master,NINJAGO,69.0,9.99,32.0,1.0,38.0
+Andrea's Play Cube - Pet Shop,Friends,40.0,9.99,5.0,1.0,33.0
+Bubbles Playground Showdown,Powerpuff Girls,144.0,19.99,48.0,3.0,92.0
+Benny's Space Squad,THE LEGO MOVIE 2,68.0,9.99,32.0,5.0,53.0
+Lloyd's Journey,NINJAGO,81.0,14.99,36.0,2.0,50.0
+Olivia's Hamster Playground,Friends,81.0,9.99,40.0,1.0,52.0
+Snowspeeder,Star Wars,91.0,19.99,56.0,2.0,64.0
+Hogwarts Room of Requirement,Harry Potter,193.0,19.99,60.0,4.0,90.0
+Dr. Wu's Lab: Baby Dinosaurs Breakout,Jurassic World,164.0,19.99,64.0,2.0,100.0
+Heartlake City Park Cafï¿½,Friends,224.0,19.99,72.0,2.0,117.0
+Spider-Man vs. Doc Ock,Marvel,234.0,19.99,72.0,3.0,80.0
+Ferrari F8 Tributo,Speed Champions,275.0,19.99,72.0,1.0,92.0
+1985 Audi Sport Quattro S1,Speed Champions,250.0,19.99,76.0,1.0,102.0
+Emmet and Benny's 'Build and Fix' Workshop!,THE LEGO MOVIE 2,117.0,19.99,48.0,2.0,73.0
+Duke Caboom's Stunt Show,Disney,120.0,19.99,48.0,2.0,62.0
+Golden Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,54.0
+J.B.'s Submarine,Hidden Side,224.0,19.99,64.0,3.0,120.0
+Battle-Ready Batman and MetalBeard,Batman,168.0,19.99,64.0,2.0,98.0
+Baby Elephant Jungle Rescue,Friends,203.0,19.99,68.0,2.0,111.0
+Wrecking Ball,Overwatch,227.0,19.99,84.0,1.0,78.0
+Kai - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,53.0
+Batman vs. The Riddler Robbery,Batman,59.0,9.99,36.0,2.0,44.0
+World Fun,Classic,295.0,19.99,53.0,2.0,149.0
+Mining Power Splitter,City,127.0,19.99,60.0,1.0,85.0
+Buzz and Bo Peep's Playground Adventure,Disney,139.0,24.99,48.0,3.0,85.0
+Tracer vs. Widowmaker,Overwatch,129.0,14.99,48.0,2.0,74.0
+Spinjitzu Slam - Kai vs. Samurai,NINJAGO,164.0,19.99,76.0,2.0,67.0
+Outrider Dropship Attack,Marvel,124.0,14.99,52.0,3.0,63.0
+Alphabet Truck,DUPLO,36.0,24.99,1.0,2.0,35.0
+Train Bridge and Tracks,DUPLO,26.0,24.99,16.0,1.0,10.0
+Mining Team,City,82.0,9.99,32.0,4.0,64.0
+Elsa's Market Adventure,Disney,125.0,19.99,48.0,2.0,78.0
+Drone Chase,City,192.0,29.99,100.0,3.0,112.0
+Jay - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,53.0
+Airport,DUPLO,29.0,24.99,20.0,3.0,24.0
+Molten Man Battle,Spider-Man,294.0,29.99,76.0,3.0,117.0
+Spider-Man Car Chase,Marvel,52.0,9.99,36.0,2.0,38.0
+J.B.'s Ghost Lab,Hidden Side,174.0,19.99,64.0,3.0,104.0
+Hoth Generator Attack,Star Wars,235.0,29.99,68.0,2.0,101.0
+Kayak Adventure,City,84.0,9.99,36.0,1.0,48.0
+Plane,DUPLO,12.0,9.99,10.0,1.0,11.0
+Airshow Jet,City,87.0,9.99,56.0,1.0,53.0
+Sith Infiltrator Microfighter,Star Wars,92.0,9.99,40.0,1.0,45.0
+Dock Side Fire,City,97.0,19.99,48.0,2.0,63.0
+Graveyard Mystery,Hidden Side,335.0,29.99,112.0,4.0,160.0
+Fire Helicopter Response,City,93.0,29.99,44.0,3.0,61.0
+Hungarian Horntail Triwizard Challenge,Harry Potter,265.0,29.99,52.0,4.0,101.0
+Elsa and the Reindeer Carriage,LEGO Frozen 2,116.0,29.99,72.0,1.0,78.0
+Racing Cars,City,190.0,29.99,84.0,2.0,101.0
+Ultrakatty & Warrior Lucy!,THE LEGO MOVIE 2,348.0,29.99,92.0,2.0,119.0
+Lonesome Flats Raft Adventure,Trolls World Tour,159.0,29.99,100.0,3.0,110.0
+Cinderella's Castle Celebration,Disney,168.0,29.99,100.0,1.0,96.0
+Wrecked Shrimp Boat,Hidden Side,310.0,29.99,108.0,4.0,150.0
+Jay and Lloyd's Velocity Racers,NINJAGO,322.0,29.99,148.0,3.0,142.0
+Underwater Loop,Friends,389.0,29.99,76.0,2.0,165.0
+Fire Chief Response Truck,City,201.0,29.99,84.0,2.0,98.0
+Rover Testing Drive,City,202.0,29.99,96.0,2.0,98.0
+Shuricopter,NINJAGO,361.0,29.99,100.0,3.0,163.0
+The Blaze Bridge,Minecraft,372.0,29.99,108.0,3.0,127.0
+2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,Speed Champions,478.0,29.99,124.0,3.0,159.0
+Hanzo vs. Genji,Overwatch,197.0,19.99,60.0,3.0,84.0
+Resistance A-wing Starfighter,Star Wars,269.0,29.99,84.0,2.0,112.0
+Mia's Organic Food Market,Friends,115.0,19.99,56.0,1.0,70.0
+Poppy's Air Balloon Adventure,Trolls World Tour,250.0,29.99,68.0,3.0,121.0
+First Order TIE Fighter Microfighter,Star Wars,91.0,9.99,40.0,1.0,47.0
+Nya - Spinjitzu Master,NINJAGO,69.0,9.99,32.0,1.0,43.0
+Pteranodon Escape,Juniors,84.0,19.99,56.0,2.0,60.0
+The Pillager Outpost,Minecraft,303.0,29.99,68.0,3.0,94.0
+The Menace of Mysterio,Marvel,163.0,29.99,128.0,3.0,97.0
+Monster Truck,City,192.0,19.99,76.0,1.0,76.0
+Brick Box,DUPLO,65.0,29.99,20.0,2.0,46.0
+Police Highway Arrest,City,185.0,29.99,108.0,2.0,98.0
+Super Heroes Lab,DUPLO,30.0,29.99,16.0,3.0,23.0
+Gamer's Market,NINJAGO,218.0,29.99,64.0,9.0,133.0
+Nature Glamping,Friends,241.0,29.99,72.0,2.0,110.0
+Empire Dragon,NINJAGO,286.0,29.99,80.0,3.0,118.0
+Olivia's Cupcake Cafe,Friends,335.0,29.99,100.0,2.0,185.0
+Race Boat Transporter,City,238.0,29.99,124.0,2.0,123.0
+Wild River Escape,City,126.0,19.99,56.0,2.0,71.0
+Service & Care Truck,Friends,247.0,19.99,84.0,1.0,123.0
+War Machine Buster,Marvel,362.0,34.99,64.0,4.0,122.0
+El Fuego's Stunt Truck,Hidden Side,428.0,39.99,156.0,4.0,198.0
+Anakin's Jedi Starfighter,Star Wars,247.0,19.99,84.0,2.0,111.0
+The Golden Dragon,NINJAGO,171.0,19.99,60.0,3.0,74.0
+Tatooine Battle Pack,Star Wars,97.0,14.99,36.0,4.0,53.0
+Obi-Wan's Hut,Star Wars,200.0,29.99,68.0,4.0,118.0
+Heart Box Friendship Pack,Friends,199.0,19.99,60.0,2.0,90.0
+RV Vacation,Disney,178.0,34.99,72.0,3.0,106.0
+Mighty Micros: Thor vs. Loki,Marvel,79.0,9.99,7.0,2.0,47.0
+Duel on Starkiller Base,Star Wars,191.0,19.99,68.0,2.0,83.0
+Stephanie's Bedroom,Friends,95.0,9.99,44.0,1.0,72.0
+Race Plane,Creator 3-in-1,333.0,29.99,200.0,1.0,134.0
+Action Battle Endor Assault,Star Wars,193.0,29.99,64.0,2.0,108.0
+Ski Speeder vs. First Order Walker Microfighters,Star Wars,216.0,19.99,92.0,2.0,94.0
+Anakin's Podracer ï¿½ 20th Anniversary Edition,Star Wars,279.0,29.99,84.0,3.0,110.0
+Spinjitzu Jay,NINJAGO,97.0,9.99,32.0,1.0,23.0
+Spinjitzu Cole,NINJAGO,117.0,9.99,32.0,1.0,26.0
+Dilophosaurus on the Loose,Jurassic World,168.0,19.99,60.0,3.0,88.0
+Luke Skywalker's Landspeeder,Star Wars,236.0,29.99,72.0,3.0,104.0
+Jay - Spinjitzu Master,NINJAGO,68.0,9.99,32.0,1.0,39.0
+Spinjitzu Nya & Wu,NINJAGO,227.0,19.99,56.0,2.0,49.0
+Aragog's Lair,Harry Potter,157.0,14.99,56.0,2.0,82.0
+Anakin's Jedi Interceptor,Star Wars,248.0,29.99,68.0,2.0,100.0
+A-Wing vs. TIE Silencer Microfighters,Star Wars,188.0,19.99,72.0,2.0,88.0
+Velociraptor: Biplane Rescue Mission,Jurassic World,101.0,29.99,76.0,2.0,72.0
+Forbidden Forest: Umbridge's Encounter,Harry Potter,253.0,29.99,84.0,4.0,121.0
+Spiderjet vs. Venom Mech,Marvel,371.0,29.99,84.0,3.0,136.0
+El Fuego's Stunt Plane,Hidden Side,295.0,29.99,92.0,3.0,149.0
+Newbury Subway,Hidden Side,348.0,29.99,108.0,3.0,146.0
+Emma's Fashion Shop,Friends,343.0,29.99,112.0,2.0,152.0
+Panda Jungle Tree House,Friends,265.0,29.99,120.0,2.0,149.0
+Formula E Panasonic Jaguar Racing GEN2 Car & Jaguar I-PACE eTROPHY,Speed Champions,565.0,29.99,128.0,2.0,186.0
+Bakery,DUPLO,46.0,34.99,20.0,2.0,33.0
+Police Station,DUPLO,38.0,29.99,22.0,3.0,25.0
+Kai - Spinjitzu Master,NINJAGO,61.0,9.99,32.0,1.0,33.0
+First Order Specialists Battle Pack,Star Wars,108.0,14.99,36.0,3.0,48.0
+X-wing Starfighter Trench Run,Star Wars,132.0,29.99,64.0,3.0,65.0
+Supernatural Race Car,Hidden Side,244.0,29.99,80.0,3.0,115.0
+Spinjitzu Kai,NINJAGO,97.0,9.99,32.0,1.0,23.0
+Ariel's Underwater Concert,Juniors,92.0,14.99,40.0,1.0,55.0
+Emmet and Lucy's Visitors from the DUPLO Planet,THE LEGO MOVIE 2,53.0,29.99,25.0,2.0,37.0
+Ford Fiesta M-Sport WRC,Speed Champions,203.0,14.99,60.0,1.0,88.0
+Off-Road Chase,City,37.0,6.99,20.0,2.0,28.0
+Turtles Rescue Mission,Friends,225.0,19.99,72.0,2.0,125.0
+Parachute Arrest,City,218.0,39.99,120.0,4.0,139.0
+City Advent Calendar,City,234.0,29.99,3.0,8.0,161.0
+Pteranodon Chase,Jurassic World,126.0,19.99,44.0,2.0,68.0
+Dolphins Rescue Mission,Friends,363.0,39.99,116.0,2.0,192.0
+Spider-Man Bike Rescue,Marvel,235.0,19.99,92.0,3.0,98.0
+People Pack - Fun Fair,City,183.0,39.99,64.0,14.0,138.0
+Elsa's Jewellery Box,LEGO Frozen 2,300.0,39.99,96.0,1.0,89.0
+Ninja Tuner Car,NINJAGO,419.0,39.99,108.0,3.0,143.0
+Mars Research Shuttle,City,273.0,39.99,160.0,2.0,135.0
+The Knight Bus,Harry Potter,403.0,39.99,84.0,3.0,128.0
+Fire Fang,NINJAGO,463.0,39.99,88.0,4.0,175.0
+Batman: The Attack of the Talons,Batman,155.0,19.99,60.0,3.0,82.0
+Buzz & Woody's Carnival Mania!,Disney,230.0,49.99,52.0,5.0,106.0
+Volcano Rock City Concert,Trolls World Tour,387.0,39.99,120.0,3.0,175.0
+Stephanie's Buggy & Trailer ,Friends,166.0,19.99,48.0,1.0,97.0
+Road Repair Truck,Juniors,73.0,9.99,32.0,1.0,50.0
+Heartlake City Supermarket,Friends,140.0,29.99,68.0,2.0,90.0
+Katana V11,NINJAGO,257.0,19.99,84.0,2.0,111.0
+Elastigirl's Rooftop Pursuit,Juniors,95.0,19.99,64.0,2.0,77.0
+Belle's Story Time,Juniors,87.0,14.99,44.0,2.0,66.0
+Spider-Man vs. Scorpion Street Showdown,Marvel,125.0,19.99,64.0,2.0,82.0
+City Advent Calendar,City,313.0,29.99,4.0,6.0,194.0
+Arctic Ice Crawler,City,200.0,24.99,92.0,1.0,80.0
+Burger Bar Fire Rescue,City,327.0,39.99,164.0,3.0,153.0
+1968 Ford Mustang Fastback,Speed Champions,183.0,14.99,60.0,1.0,74.0
+Elite Praetorian Guard Battle Pack,Star Wars,109.0,14.99,40.0,4.0,52.0
+Wonder Woman vs. Cheetah,DC,371.0,39.99,84.0,3.0,130.0
+Jay's Storm Fighter,NINJAGO,490.0,39.99,140.0,4.0,195.0
+Forest Tractor,City,174.0,19.99,64.0,1.0,77.0
+Mia's Horse Trailer,Friends,216.0,29.99,76.0,2.0,119.0
+Andrea's Bedroom,Friends,85.0,9.99,44.0,1.0,60.0
+Mountain Police Chase,Juniors,115.0,19.99,64.0,2.0,85.0
+Daredevil Stunt Plane,Creator 3-in-1,200.0,19.99,120.0,1.0,86.0
+Dr. Fox Laboratory,Unikitty,359.0,29.99,132.0,4.0,163.0
+Police Helicopter Chase,City,212.0,39.99,128.0,4.0,127.0
+Stephanie's Obstacle Course,Friends,337.0,39.99,100.0,2.0,168.0
+Baking Competition,Friends,361.0,39.99,104.0,3.0,157.0
+Golden Mech,NINJAGO,489.0,39.99,108.0,4.0,172.0
+Batman Batsub and the Underwater Clash,Batman,174.0,19.99,64.0,3.0,82.0
+Batmobile: Pursuit of The Joker,Batman,342.0,29.99,80.0,2.0,114.0
+Friends Advent Calendar,Friends,330.0,29.99,2.0,3.0,158.0
+Mojo Jojo Strikes,Powerpuff Girls,228.0,29.99,76.0,4.0,149.0
+The Skull Arena,Minecraft,198.0,19.99,68.0,2.0,68.0
+Mia's Bedroom,Friends,86.0,9.99,48.0,1.0,63.0
+Han Solo's Landspeeder,Star Wars,345.0,29.99,96.0,2.0,126.0
+Farmers' Market,DUPLO,26.0,19.99,9.0,3.0,18.0
+Inferno Squad Battle Pack,Star Wars,118.0,14.99,40.0,4.0,52.0
+Spider-Man: Doc Ock Diamond Heist,Marvel,150.0,29.99,96.0,3.0,98.0
+Batman: Brother Eye Takedown,Batman,269.0,29.99,76.0,3.0,103.0
+Mr. Freeze Batcycle Battle,Batman,200.0,19.99,68.0,3.0,97.0
+Outback Adventures,Creator 3-in-1,225.0,19.99,148.0,1.0,103.0
+Jedi and Clone Troopers Battle Pack,Star Wars,102.0,14.99,32.0,3.0,54.0
+Ferrari 488 GT3 Scuderia Corsa,Speed Champions,179.0,14.99,56.0,1.0,78.0
+The Bat-Dune Buggy,DC,198.0,19.99,64.0,2.0,92.0
+Ambulance Helicopter,City,190.0,19.99,84.0,3.0,108.0
+LEGO Movie Maker,THE LEGO MOVIE 2,482.0,49.99,96.0,6.0,243.0
+Creative Tuning Shop,Friends,413.0,39.99,108.0,2.0,217.0
+Dorado Showdown,Overwatch,419.0,29.99,124.0,3.0,168.0
+Spinjitzu Lloyd vs. Garmadon,NINJAGO,208.0,19.99,52.0,2.0,44.0
+Beauxbatons' Carriage: Arrival at Hogwarts ,Harry Potter,430.0,49.99,84.0,4.0,160.0
+Star Wars Advent Calendar,Star Wars,307.0,39.99,4.0,7.0,186.0
+Rhino Face-Off by the Mine,Marvel,229.0,19.99,88.0,3.0,100.0
+Iron Man Hulkbuster versus A.I.M. Agent,Marvel,456.0,39.99,80.0,4.0,143.0
+Junkrat & Roadhog,Overwatch,380.0,49.99,92.0,2.0,168.0
+Tiger Hot Air Balloon Jungle Rescue,Friends,302.0,39.99,116.0,2.0,145.0
+Avengers Truck Take-down,Marvel,477.0,39.99,116.0,4.0,164.0
+Ocean Exploration Submarine,City,286.0,39.99,141.0,4.0,131.0
+Townhouse Toy Store,Creator 3-in-1,554.0,39.99,268.0,2.0,194.0
+Space Rover Explorer,Creator 3-in-1,510.0,39.99,276.0,1.0,206.0
+Riverside Houseboat,Creator 3-in-1,396.0,39.99,200.0,2.0,157.0
+Rebel A-wing Starfighter,Star Wars,62.0,14.99,36.0,2.0,44.0
+Rapunzel's Castle Bedroom,Disney,156.0,19.99,56.0,1.0,93.0
+Zane's Ninja Boat Pursuit,Juniors,131.0,19.99,64.0,2.0,78.0
+Stephanie's Gymnastics Show,Friends,241.0,29.99,76.0,2.0,114.0
+The Redstone Battle,Minecraft,504.0,39.99,88.0,4.0,133.0
+Spider Mech vs. Venom ,Marvel,604.0,49.99,104.0,4.0,203.0
+Pasaana Speeder Chase,Star Wars,373.0,39.99,116.0,4.0,177.0
+Enchanted Tree House,LEGO Frozen 2,302.0,49.99,120.0,3.0,174.0
+Pop Village Celebration,Trolls World Tour,380.0,49.99,120.0,5.0,205.0
+Haunted Fairground,Hidden Side,466.0,49.99,124.0,5.0,212.0
+Shrimp Shack Attack,Hidden Side,578.0,49.99,128.0,5.0,293.0
+Newbury Abandoned Prison,Hidden Side,400.0,39.99,132.0,4.0,164.0
+1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy,Speed Champions,481.0,49.99,64.0,4.0,187.0
+Superman & Krypto Team-Up,DC,199.0,19.99,76.0,2.0,110.0
+Black Ace TIE Interceptor,Star Wars,396.0,49.99,84.0,3.0,161.0
+Andrea's Pool Party,Friends,468.0,49.99,112.0,2.0,221.0
+Garage Centre,City,234.0,49.99,116.0,4.0,62.0
+AT-ST Raider,Star Wars,540.0,49.99,120.0,4.0,211.0
+Katana 4X4,NINJAGO,450.0,49.99,128.0,5.0,185.0
+Batwing and The Riddler Heist,Batman,489.0,49.99,132.0,4.0,212.0
+Fairground Carousel,Creator 3-in-1,595.0,49.99,236.0,3.0,223.0
+Stephanie's Soccer Practice,Friends,119.0,14.99,48.0,1.0,78.0
+Emma's Art Stand,Friends,210.0,19.99,60.0,1.0,107.0
+Batman and The Joker Escape,Batman,171.0,39.99,72.0,4.0,119.0
+The Hulkbuster Smash-Up,Marvel,375.0,29.99,84.0,4.0,143.0
+Imperial Dropship ï¿½ 20th Anniversary Edition,Star Wars,125.0,19.99,60.0,3.0,57.0
+Raptor Rescue Truck,Juniors,85.0,24.99,56.0,2.0,56.0
+Frozen Ice Castle,Disney,59.0,49.99,28.0,3.0,31.0
+Throne Room Showdown,NINJAGO,221.0,19.99,68.0,5.0,111.0
+Monster Burger Truck,Creator 3-in-1,499.0,49.99,248.0,2.0,183.0
+Service Station,City,354.0,49.99,193.0,4.0,179.0
+Andrea's Park Performance,Friends,229.0,24.99,80.0,3.0,126.0
+Harry Potter Advent Calendar,Harry Potter,305.0,39.99,3.0,8.0,151.0
+Olivia's Deluxe Bedroom,Friends,163.0,14.99,60.0,1.0,100.0
+Cloud-Rider Swoop Bikes,Star Wars,355.0,29.99,92.0,3.0,148.0
+TIE Fighter Attack,Star Wars,77.0,19.99,40.0,2.0,50.0
+Brick-built Minions and their Lair,Minions,876.0,49.99,184.0,3.0,180.0
+Escape Pod vs. Dewback Microfighters,Star Wars,177.0,19.99,64.0,3.0,79.0
+Destiny's Wing,NINJAGO,181.0,19.99,76.0,2.0,100.0
+Mickey's Vacation House,Disney,57.0,49.99,28.0,3.0,37.0
+Fire Station,DUPLO,76.0,49.99,34.0,2.0,47.0
+Jay's Cyber Dragon,NINJAGO,518.0,49.99,84.0,5.0,189.0
+Hydro-Man Attack,Marvel,471.0,39.99,96.0,4.0,170.0
+Thunder Raider,NINJAGO,576.0,49.99,148.0,5.0,191.0
+Police Helicopter Transport,City,317.0,49.99,156.0,4.0,161.0
+The Lighthouse of Darkness,Hidden Side,540.0,49.99,156.0,5.0,240.0
+D.Va & Reinhardt,Overwatch,455.0,39.99,108.0,2.0,161.0
+Pirate Ship,Minecraft,386.0,39.99,116.0,3.0,143.0
+Shimmer & Shine Sparkle Spa!,THE LEGO MOVIE 2,694.0,69.99,128.0,8.0,209.0
+Modular Sweet Surprises,Creator 3-in-1,396.0,39.99,184.0,3.0,187.0
+The Joker Batcave Attack,Batman,151.0,24.99,76.0,3.0,94.0
+Olivia's Mission Vehicle,Friends,223.0,19.99,84.0,1.0,106.0
+Modular Winter Vacation,Creator 3-in-1,374.0,34.99,200.0,2.0,142.0
+Belle's Tea Party,Disney,19.0,19.99,8.0,1.0,16.0
+Wyld-Mayhem Star Fighter,THE LEGO MOVIE 2,405.0,49.99,132.0,4.0,157.0
+City Central Airport,Juniors,376.0,49.99,144.0,5.0,170.0
+Spider-Man vs. Electro,Marvel,29.0,19.99,10.0,2.0,22.0
+Star Wars Advent Calendar,Star Wars,280.0,39.99,2.0,9.0,177.0
+Drifting Diner,Friends,345.0,29.99,92.0,2.0,182.0
+Gentle Giants Petting Zoo,Jurassic World,24.0,19.99,13.0,1.0,19.0
+Ariel's Castle,Disney,115.0,24.99,56.0,1.0,74.0
+Paranormal Intercept Bus 3000,Hidden Side,689.0,59.99,136.0,5.0,272.0
+Porsche 919 Hybrid,Speed Champions,163.0,14.99,60.0,1.0,75.0
+Mickey's Boat,Disney,28.0,29.99,24.0,2.0,25.0
+Baryonyx Face-Off: The Treasure Hunt,Jurassic World,434.0,59.99,96.0,4.0,211.0
+Avengers Hulk Helicopter Rescue,Marvel,482.0,59.99,100.0,4.0,187.0
+Iron Man Hall of Armour,Marvel,524.0,59.99,104.0,5.0,156.0
+Hagrid's Hut: Buckbeak's Rescue,Harry Potter,496.0,59.99,120.0,6.0,208.0
+Lighthouse Rescue Centre,Friends,602.0,59.99,180.0,2.0,273.0
+Twin-Rotor Helicopter,Creator 3-in-1,569.0,59.99,228.0,1.0,200.0
+Action Battle Echo Base Defence,Star Wars,504.0,59.99,112.0,5.0,192.0
+Heartlake City Restaurant,Friends,624.0,59.99,140.0,3.0,201.0
+Lunar Space Station,City,412.0,59.99,172.0,5.0,171.0
+Andrea's Accessories Store,Friends,294.0,29.99,84.0,2.0,128.0
+Triceratops Rampage,Jurassic World,447.0,59.99,112.0,4.0,200.0
+Heartlake City Hospital,Friends,379.0,49.99,132.0,3.0,154.0
+Thor's Weapon Quest,Marvel,223.0,19.99,84.0,3.0,112.0
+Millennium Falcon Microfighter,Star Wars,92.0,9.99,44.0,1.0,48.0
+T. rex Tower,Jurassic World,22.0,29.99,14.0,1.0,18.0
+Ahch-To Island Training,Star Wars,241.0,29.99,84.0,2.0,129.0
+Spider-Man's Spider Crawler ,Marvel,418.0,39.99,84.0,4.0,132.0
+Moloch's Landspeeder,Star Wars,464.0,39.99,144.0,2.0,163.0
+Underminer's Bank Heist,Juniors,149.0,24.99,64.0,3.0,99.0
+Emma's Deluxe Bedroom,Friends,183.0,14.99,68.0,1.0,105.0
+Rapunzel's Travelling Caravan,Disney,323.0,39.99,108.0,2.0,171.0
+Belle's Castle Winter Celebration,Disney,238.0,49.99,108.0,6.0,146.0
+Joker's Trike Chase,Batman,440.0,49.99,108.0,4.0,181.0
+Stephanie's Lakeside House,Friends,215.0,34.99,112.0,3.0,142.0
+Gallimimus and Pteranodon Breakout,Jurassic World,391.0,49.99,112.0,3.0,170.0
+Kai's Blade Cycle & Zane's Snowmobile,NINJAGO,376.0,29.99,128.0,4.0,189.0
+Lamborghini Urus ST-X & Huracï¿½n Super Trofeo EVO ,Speed Champions,663.0,49.99,144.0,2.0,202.0
+Beach House,Friends,444.0,49.99,160.0,2.0,216.0
+Stygimoloch Breakout,Jurassic World,222.0,29.99,84.0,2.0,91.0
+Ocean's Bottom,Classic,579.0,29.99,57.0,2.0,218.0
+Police Monster Truck Heist,City,362.0,59.99,200.0,5.0,198.0
+Death Star Escape,Star Wars,329.0,29.99,84.0,4.0,110.0
+Mia's Tree House,Friends,351.0,29.99,120.0,2.0,151.0
+Andrea's Talent Show,Friends,492.0,49.99,124.0,2.0,184.0
+Steam Train,DUPLO,59.0,59.99,48.0,2.0,38.0
+Fire Plane,City,363.0,59.99,156.0,3.0,151.0
+Porsche 911 RSR and 911 Turbo 3.0,Speed Champions,391.0,29.99,120.0,3.0,166.0
+Harvester Transport,City,358.0,29.99,148.0,3.0,166.0
+Resistance Y-wing Starfighter,Star Wars,578.0,69.99,76.0,5.0,177.0
+Stark Jet and the Drone Attack,Spider-Man,504.0,69.99,96.0,4.0,176.0
+Hogwarts Whomping Willow,Harry Potter,753.0,69.99,148.0,6.0,253.0
+Major Vonreg's TIE Fighter,Star Wars,496.0,69.99,92.0,4.0,151.0
+Fire Station,City,509.0,69.99,184.0,4.0,210.0
+Large Playground Brick Box,DUPLO,71.0,49.99,32.0,2.0,49.0
+D-O,Star Wars,519.0,69.99,72.0,1.0,149.0
+Emma's Art Studio,Friends,235.0,24.99,60.0,2.0,122.0
+The Flintstones,Ideas,748.0,59.99,180.0,4.0,242.0
+Lex Luthor Mech Takedown,DC,406.0,39.99,84.0,5.0,159.0
+Pop-Up Party Bus,THE LEGO MOVIE 2,1024.0,79.99,172.0,4.0,294.0
+The Illager Raid,Minecraft,562.0,59.99,96.0,5.0,187.0
+The Big Race Day,Friends,648.0,59.99,144.0,3.0,252.0
+Avengers Wrath of Loki,Marvel,223.0,59.99,124.0,5.0,137.0
+Central Airport,City,286.0,59.99,169.0,6.0,168.0
+The Great Home Escape,Juniors,178.0,29.99,76.0,4.0,123.0
+Tropical Island,DUPLO,73.0,59.99,40.0,3.0,44.0
+Modular Playhouse,DUPLO,129.0,59.99,84.0,3.0,56.0
+Phantom Fire Truck 3000,Hidden Side,760.0,59.99,148.0,6.0,263.0
+Central Perk,Ideas,1070.0,59.99,156.0,7.0,366.0
+Dinosaur Fossils,Ideas,910.0,59.99,169.0,2.0,201.0
+Batman Mech vs. Poison Ivy Mech ,Batman,375.0,39.99,92.0,4.0,173.0
+Mobile Stunt Show,Creator 3-in-1,581.0,49.99,224.0,2.0,212.0
+The Melon Farm,Minecraft,69.0,14.99,44.0,3.0,47.0
+Mia's House,Friends,715.0,69.99,192.0,3.0,274.0
+Street Race of Snake Jaguar,NINJAGO,308.0,29.99,112.0,2.0,130.0
+Snoke's Throne Room,Star Wars,492.0,69.99,104.0,4.0,166.0
+Hogwarts Express,Harry Potter,801.0,79.99,124.0,6.0,261.0
+Elsa's Ice Palace,LEGO Frozen 2,701.0,79.99,180.0,4.0,234.0
+Arendelle Castle,LEGO Frozen 2,521.0,79.99,192.0,3.0,231.0
+Yoda's Hut,Star Wars,229.0,29.99,72.0,3.0,139.0
+Dirt Road Pursuit,City,297.0,39.99,116.0,3.0,140.0
+Emmet and Lucy's Escape Buggy!,THE LEGO MOVIE 2,550.0,49.99,124.0,4.0,199.0
+Cruising Adventures,Creator 3-in-1,597.0,59.99,216.0,3.0,246.0
+Royal Talon Fighter Attack,Marvel,358.0,29.99,100.0,4.0,119.0
+Pickup & Caravan,City,344.0,29.99,140.0,3.0,188.0
+Arctic Air Transport,City,277.0,39.99,112.0,2.0,113.0
+Aladdin's and Jasmine's Palace Adventures,Disney,193.0,29.99,76.0,2.0,114.0
+The Polar Igloo,Minecraft,278.0,29.99,84.0,2.0,95.0
+Watchpoint: Gibraltar,Overwatch,730.0,89.99,192.0,4.0,287.0
+Unikingdom Creative Brick Box,Unikitty,433.0,39.99,172.0,17.0,220.0
+Blue's Helicopter Pursuit,Jurassic World,397.0,39.99,112.0,3.0,177.0
+Stephanie's Sports Arena,Friends,460.0,44.99,108.0,2.0,188.0
+Heavy Cargo Transport,City,310.0,29.99,128.0,2.0,161.0
+4 Privet Drive,Harry Potter,797.0,69.99,184.0,6.0,255.0
+Friendship Bus,Friends,778.0,69.99,236.0,3.0,286.0
+Caravan Family Holiday,Creator 3-in-1,766.0,69.99,276.0,3.0,328.0
+People Pack - Outdoor Adventures,City,164.0,39.99,64.0,15.0,128.0
+Mining Heavy Driller,City,294.0,49.99,124.0,3.0,139.0
+Knights of Ren Transport Ship,Star Wars,595.0,69.99,136.0,3.0,182.0
+The Crafting Box 3.0,Minecraft,564.0,69.99,180.0,4.0,128.0
+The Nether Portal,Minecraft,470.0,39.99,112.0,3.0,146.0
+T. Rex Breakout,Juniors,150.0,49.99,76.0,3.0,98.0
+Empire Temple of Madness,NINJAGO,810.0,79.99,160.0,6.0,267.0
+Lloyd's Titan Mech,NINJAGO,876.0,79.99,164.0,6.0,230.0
+Monastery of Spinjitzu,NINJAGO,1070.0,79.99,188.0,8.0,359.0
+Mos Eisley Cantina,Star Wars,376.0,39.99,80.0,4.0,140.0
+S.O.G. Headquarters,NINJAGO,530.0,39.99,96.0,5.0,246.0
+First Order AT-ST,Star Wars,370.0,39.99,80.0,4.0,157.0
+Townhouse Pet Shop & Cafï¿½,Creator 3-in-1,969.0,79.99,356.0,3.0,289.0
+Arctic Scout Truck,City,322.0,59.99,100.0,3.0,148.0
+Spider-Man & Hulk Adventures,DUPLO,38.0,29.99,20.0,3.0,29.0
+General Grievous' Combat Speeder,Star Wars,157.0,29.99,60.0,2.0,76.0
+Sunshine Surfer Van,Creator 3-in-1,379.0,34.99,184.0,2.0,160.0
+The Nether Fight,Minecraft,84.0,14.99,40.0,3.0,48.0
+The Ultra Dragon,NINJAGO,951.0,84.99,160.0,6.0,262.0
+TRON: Legacy,Ideas,230.0,34.99,68.0,3.0,73.0
+Clone Scout Walker ï¿½ 20th Anniversary Edition,Star Wars,250.0,29.99,80.0,5.0,109.0
+Sith TIE Fighter,Star Wars,470.0,79.99,104.0,3.0,127.0
+Venomosaurus Ambush,Marvel,640.0,79.99,148.0,5.0,242.0
+The Creeper Mine,Minecraft,834.0,79.99,164.0,4.0,206.0
+Ocean Exploration Base,City,497.0,79.99,165.0,5.0,180.0
+Jungle Rescue Base,Friends,648.0,79.99,176.0,3.0,251.0
+Avengers Ultimate Quinjet,Marvel,840.0,79.99,160.0,5.0,252.0
+Avengers Compound Battle,Marvel,699.0,99.99,168.0,7.0,292.0
+Party Boat,Friends,640.0,79.99,184.0,3.0,270.0
+Rescue Mission Boat,Friends,908.0,89.99,216.0,4.0,376.0
+Donut Shop Opening,City,790.0,89.99,320.0,10.0,368.0
+Ariel's Royal Celebration Boat,Disney,380.0,49.99,108.0,2.0,156.0
+Mountain Arrest,City,303.0,59.99,136.0,4.0,168.0
+Modular Skate House,Creator 3-in-1,422.0,39.99,196.0,2.0,169.0
+Farm Pony Stable,DUPLO,59.0,29.99,25.0,2.0,31.0
+Air Base,City,529.0,89.99,260.0,6.0,270.0
+Emma's Art Cafï¿½,Friends,378.0,32.99,112.0,2.0,166.0
+Emmet's Dream House/Rescue Rocket!,THE LEGO MOVIE 2,706.0,69.99,260.0,4.0,197.0
+Diamond Heist,City,400.0,59.99,160.0,4.0,191.0
+AT-AP Walker,Star Wars,689.0,59.99,140.0,4.0,214.0
+Pop-Up Book,Ideas,859.0,69.99,164.0,5.0,211.0
+Snowspeeder ï¿½ 20th Anniversary Edition,Star Wars,309.0,39.99,116.0,4.0,159.0
+Poe Dameron's X-wing Fighter,Star Wars,761.0,89.99,124.0,4.0,219.0
+T. rex vs Dino-Mech Battle,Jurassic World,716.0,89.99,176.0,4.0,254.0
+Hogwarts Clock Tower,Harry Potter,922.0,89.99,176.0,8.0,276.0
+Mission to Mars,Classic,871.0,59.99,81.0,3.0,330.0
+Avengers Tower Battle,Marvel,685.0,89.99,136.0,7.0,250.0
+Mobile Bat Base,DC,743.0,89.99,140.0,6.0,275.0
+Steamboat Willie,Ideas,751.0,89.99,176.0,2.0,202.0
+Yoda,Star Wars,1771.0,99.99,224.0,1.0,235.0
+Castle of the Forsaken Emperor,NINJAGO,1218.0,99.99,248.0,7.0,361.0
+Deep Space Rocket and Launch Control,City,837.0,99.99,304.0,7.0,308.0
+Downtown Fire Brigade,City,943.0,99.99,414.0,7.0,400.0
+Thanos: Ultimate Battle,Marvel,674.0,69.99,116.0,4.0,190.0
+Queen Watevra's ï¿½So-Not-Evil' Space Palace,THE LEGO MOVIE 2,997.0,99.99,212.0,5.0,275.0
+Stormbringer,NINJAGO,493.0,39.99,108.0,4.0,182.0
+"Ariel, Aurora, and Tiana's Royal Celebration",Disney,282.0,39.99,108.0,3.0,131.0
+Oni Titan,NINJAGO,522.0,49.99,96.0,4.0,183.0
+Cole's Earth Driller ,NINJAGO,587.0,49.99,132.0,4.0,216.0
+World Animals,DUPLO,121.0,99.99,48.0,6.0,75.0
+Rapunzel's Tower,DUPLO,37.0,29.99,24.0,1.0,26.0
+NASA Apollo 11 Lunar Lander,Creator Expert,1087.0,99.99,124.0,2.0,193.0
+Batcave Clayface Invasion,Batman,1038.0,99.99,168.0,6.0,333.0
+Passenger Airplane,City,669.0,99.99,273.0,9.0,288.0
+Summer Fun Water Park,Friends,1001.0,99.99,316.0,4.0,394.0
+Pirate Ship,Creator 3-in-1,1264.0,99.99,428.0,4.0,359.0
+Sweet Mayhem's Systar Starship!,THE LEGO MOVIE 2,502.0,69.99,100.0,3.0,188.0
+Indominus rex vs. Ankylosaurus,Jurassic World,537.0,99.99,112.0,5.0,216.0
+Crocodile Locomotive,Creator Expert,1271.0,99.99,132.0,2.0,212.0
+Hogwarts Astronomy Tower,Harry Potter,971.0,99.99,172.0,8.0,310.0
+Hogwarts Great Hall,Harry Potter,878.0,99.99,184.0,10.0,284.0
+Gingerbread House,Creator Expert,1477.0,99.99,196.0,2.0,321.0
+Rex's Rexplorer!,THE LEGO MOVIE 2,1187.0,119.99,208.0,2.0,299.0
+Mystery Castle,Hidden Side,1035.0,99.99,296.0,5.0,335.0
+Police Station,City,743.0,99.99,345.0,7.0,298.0
+Tuning Workshop,City,897.0,99.99,389.0,7.0,411.0
+Ghost Train Express,Hidden Side,698.0,79.99,136.0,6.0,268.0
+Defense of Crait,Star Wars,746.0,84.99,144.0,4.0,289.0
+Imperial AT-Hauler,Star Wars,829.0,99.99,148.0,5.0,206.0
+Arctic Supply Plane,City,707.0,79.99,132.0,4.0,239.0
+Ninja Nightcrawler,NINJAGO,552.0,39.99,124.0,3.0,205.0
+T. Rex Transport,Jurassic World,609.0,69.99,156.0,3.0,174.0
+Imperial Conveyex Transport,Star Wars,622.0,89.99,120.0,4.0,187.0
+Land Bounty,NINJAGO,1178.0,129.99,252.0,9.0,400.0
+Heartlake City Amusement Pier,Friends,1251.0,129.99,316.0,7.0,433.0
+Speed Force Freeze Pursuit,DC,271.0,29.99,80.0,4.0,138.0
+Avengers Helicarrier,Marvel,1244.0,119.99,220.0,8.0,355.0
+Slave I - 20th Anniversary Edition,Star Wars,1007.0,119.99,164.0,6.0,293.0
+Firstbourne,NINJAGO,882.0,69.99,172.0,6.0,337.0
+Corvus Glaive Thresher Attack,Marvel,416.0,39.99,124.0,5.0,168.0
+Cargo Train,DUPLO,105.0,119.99,64.0,3.0,68.0
+Kylo Ren's Shuttle,Star Wars,1005.0,129.99,184.0,6.0,271.0
+Darth Vader's Castle,Star Wars,1060.0,129.99,188.0,5.0,285.0
+Ferrari Ultimate Garage,Speed Champions,841.0,99.99,200.0,7.0,309.0
+Newbury Haunted High School,Hidden Side,1474.0,129.99,308.0,8.0,482.0
+Passenger Train,City,677.0,159.99,230.0,4.0,165.0
+Rocket Assembly &Transport,City,1055.0,149.99,340.0,8.0,364.0
+Carnotaurus Gyrosphere Escape,Jurassic World,577.0,79.99,140.0,3.0,226.0
+Sleeping Beauty's Fairytale Castle,Disney,322.0,39.99,84.0,3.0,171.0
+App-Controlled Batmobile,DC,321.0,99.99,108.0,1.0,114.0
+The Skeleton Attack,Minecraft,457.0,39.99,100.0,3.0,136.0
+Mia's Camper Van,Friends,488.0,54.99,116.0,2.0,222.0
+Mountain Police Headquarters,City,663.0,89.99,272.0,7.0,324.0
+Droid Gunship,Star Wars,389.0,49.99,84.0,3.0,150.0
+Ocean Exploration Ship,City,745.0,149.99,229.0,8.0,314.0
+The Bat-Space Shuttle,DC,643.0,79.99,124.0,6.0,239.0
+Arctic Mobile Exploration Base,City,786.0,119.99,236.0,6.0,255.0
+Cinderella's Dream Castle,Disney,585.0,69.99,132.0,2.0,218.0
+Millennium Falcon,Star Wars,1353.0,159.99,268.0,7.0,352.0
+Killow vs. Samurai X,NINJAGO,556.0,49.99,128.0,3.0,220.0
+Heartlake City Pet Centre,Friends,474.0,59.99,108.0,3.0,234.0
+The Bedrock Adventures,Minecraft,644.0,89.99,108.0,4.0,168.0
+X-wing Starfighter,Star Wars,730.0,79.99,120.0,4.0,224.0
+Pirate Roller Coaster,Creator 3-in-1,923.0,89.99,324.0,5.0,277.0
+Imperial Landing Craft,Star Wars,636.0,89.99,108.0,5.0,191.0
+Bookshop,Creator Expert,2504.0,179.99,216.0,5.0,561.0
+Cargo Train,City,1227.0,229.99,362.0,6.0,410.0
+Friendship House,Friends,722.0,69.99,164.0,3.0,309.0
+Vestas Wind Turbine,Creator Expert,826.0,199.99,148.0,3.0,230.0
+The Hulkbuster: Ultron Edition,Marvel,1363.0,119.99,184.0,1.0,268.0
+Dragon Pit,NINJAGO,1660.0,129.99,244.0,9.0,424.0
+Sanctum Sanctorum Showdown,Marvel,1004.0,99.99,220.0,5.0,312.0
+The Farm Cottage ,Minecraft,549.0,49.99,116.0,3.0,157.0
+The Upside Down,Stranger Things,2287.0,199.99,300.0,8.0,533.0
+Corner Garage,Creator Expert,2569.0,199.99,236.0,6.0,564.0
+Tantive IV,Star Wars,1768.0,199.99,260.0,6.0,387.0
+A-wing Starfighter,Star Wars,1673.0,199.99,272.0,1.0,355.0
+Pirates of Barracuda Bay,Ideas,2545.0,199.99,460.0,10.0,575.0
+Imperial TIE Fighter,Star Wars,519.0,69.99,76.0,4.0,129.0
+Indoraptor Rampage at Lockwood Estate,Jurassic World,1019.0,129.99,176.0,6.0,257.0
+City Hospital,City,861.0,99.99,329.0,13.0,362.0
+Dieselnaut,NINJAGO,1179.0,109.99,156.0,7.0,308.0
+Sandcrawler,Star Wars,1239.0,139.99,188.0,6.0,277.0
+The Rexcelsior!,THE LEGO MOVIE 2,1826.0,149.99,276.0,4.0,377.0
+Heartlake City Resort,Friends,1017.0,99.99,208.0,4.0,326.0
+Mining Experts Site,City,883.0,99.99,244.0,6.0,284.0
+Capital City,City,1211.0,149.99,441.0,13.0,489.0
+Downtown Diner,Creator Expert,2480.0,169.99,200.0,6.0,508.0
+Kessel Run Millennium Falcon,Star Wars,1414.0,169.99,208.0,7.0,318.0
+Temple of Resurrection,NINJAGO,765.0,69.99,144.0,8.0,297.0
+Farm Adventures,DUPLO,104.0,59.99,40.0,3.0,42.0
+Roller Coaster,Creator Expert,4124.0,379.99,440.0,11.0,556.0
+Hogwarts Castle,Harry Potter,6020.0,399.99,636.0,28.0,624.0
+NINJAGO City Docks,NINJAGO,3553.0,229.99,380.0,14.0,690.0
+Betrayal at Cloud City,Star Wars,2812.0,349.99,388.0,19.0,676.0
+Imperial Star Destroyer,Star Wars,4784.0,699.99,444.0,2.0,445.0
+Monkie Kid's Delivery Bike,Monkie Kid,22.0,4.99,3.0,1.0,18.0
+Road Worker,City,58.0,3.99,3.0,1.0,33.0
+Police Water Plane,City,48.0,3.99,3.0,1.0,36.0
+Arctic Ice Saw,City,43.0,3.99,3.0,1.0,34.0
+Space Satellite,City,36.0,3.99,3.0,1.0,24.0
+Beach Buggy,City,45.0,4.99,3.0,1.0,29.0
+Olivia's Remote Control Boat,Friends,25.0,3.99,3.0,1.0,23.0
+Unikitty Roller Coaster Wagon,Unikitty,46.0,3.99,3.0,1.0,28.0
+Rex's Plantimal Ambush,THE LEGO MOVIE 2,32.0,3.99,3.0,1.0,23.0
+Poppy's Carriage,Trolls World Tour,51.0,4.99,3.0,1.0,30.0
+DJ,Star Wars,22.0,4.99,3.0,1.0,15.0
+Ninjago Minifigure Pack,NINJAGO,59.0,12.99,3.0,4.0,33.0
+Spider-Man and the Museum Break-In,Marvel,49.0,14.99,3.0,3.0,33.0
+Summer Celebration Minifigure Pack,Minifigures,45.0,12.99,3.0,4.0,35.0
+Police MF Accessory Set,Minifigures,42.0,12.99,3.0,4.0,33.0
+Fairground Accessory Set,Minifigures,51.0,12.99,3.0,4.0,35.0
+Falcon & Black Widow Team-Up,Marvel,60.0,14.99,3.0,3.0,34.0
+Spinjitzu Burst - Cole,NINJAGO,48.0,9.99,3.0,1.0,31.0
+Spinjitzu Burst Lloyd,NINJAGO,48.0,9.99,3.0,1.0,30.0
+Golden Zane Accessory Set ,NINJAGO,73.0,12.99,5.0,4.0,31.0
+Stephanie's Play Cube - Beauty Salon,Friends,44.0,9.99,5.0,1.0,35.0
+Andrea's Jungle Play Cube,Friends,47.0,9.99,5.0,1.0,43.0
+Stephanie's Jungle Play Cube,Friends,41.0,9.99,5.0,1.0,38.0
+Obi-Wan Kenobi - Collectable Minifigure,Star Wars,12.0,3.99,6.0,1.0,10.0
+Hogwarts Students Accessory Set,Harry Potter,53.0,14.99,9.0,4.0,33.0
+Bulldozer,DUPLO,10.0,9.99,12.0,1.0,10.0
+Creative Fun,DUPLO,120.0,39.99,13.0,1.0,70.0
+Truck & Tracked Excavator,DUPLO,20.0,19.99,16.0,2.0,19.0
+Batcave,Batman,33.0,29.99,20.0,3.0,25.0
+Ariel's Undersea Castle,Disney,35.0,29.99,20.0,1.0,27.0
+Wrecking Ball Demolition,DUPLO,56.0,59.99,32.0,3.0,41.0
+Emma's Pet Party,Friends,67.0,9.99,36.0,1.0,50.0
+Olaf's Traveling Sleigh,Disney,97.0,12.99,44.0,1.0,52.0
+Fun Future,Classic,186.0,9.99,49.0,1.0,95.0
+Tower Crane & Construction,DUPLO,123.0,129.99,56.0,5.0,72.0
+Lucy's Builder Box!,THE LEGO MOVIE 2,141.0,29.99,56.0,2.0,71.0
+Emmet's Builder Box!,THE LEGO MOVIE 2,125.0,29.99,56.0,1.0,76.0
+Quantum Realm Explorers,Marvel,200.0,19.99,64.0,3.0,100.0
+Moana's Island Home,Disney,202.0,29.99,68.0,1.0,121.0
+People Pack - Space Research and Development,City,209.0,39.99,68.0,15.0,146.0
+Wu's Battle Dragon,NINJAGO,321.0,19.99,68.0,2.0,109.0
+Iron Man Armory,Marvel,258.0,29.99,68.0,3.0,110.0
+Diagon Alley,Harry Potter,374.0,19.99,72.0,1.0,116.0
+Dilophosaurus Outpost Attack,Jurassic World,289.0,39.99,72.0,3.0,124.0
+Mulan's Training Grounds,Disney,157.0,29.99,76.0,1.0,94.0
+Funny Octopus Ride,Friends,324.0,39.99,76.0,2.0,145.0
+Black Widow's Helicopter Chase,Marvel,271.0,29.99,80.0,3.0,125.0
+Venom Crawler,Marvel,413.0,29.99,80.0,3.0,132.0
+Armored Assault Tank (AAT),Star Wars,286.0,39.99,80.0,3.0,121.0
+Captain Marvel and The Skrull Attack,Marvel,307.0,29.99,80.0,3.0,126.0
+501st Legion Clone Troopers,Star Wars,285.0,29.99,84.0,3.0,125.0
+Hoth Medical Chamber,Star Wars,255.0,29.99,84.0,4.0,120.0
+Sandspeeder,Star Wars,278.0,29.99,84.0,2.0,110.0
+Stephanie's House,Friends,170.0,39.99,92.0,3.0,116.0
+Emmet's Triple-Decker Couch Mech,THE LEGO MOVIE 2,312.0,29.99,92.0,3.0,98.0
+Journey to the Skull Dungeons,NINJAGO,401.0,29.99,92.0,4.0,164.0
+White Dragon Horse Bike,Monkie Kid,259.0,34.99,96.0,3.0,134.0
+Storm Fighter Battle,NINJAGO,165.0,29.99,100.0,3.0,96.0
+Spinning Brushes Car Wash,Friends,325.0,29.99,108.0,2.0,174.0
+Air Race,City,140.0,39.99,108.0,3.0,84.0
+Quidditch Match,Harry Potter,500.0,39.99,112.0,6.0,205.0
+Iron Bull Tank,Monkie Kid,430.0,49.99,124.0,3.0,160.0
+Rainbow Caterbus,Trolls World Tour,395.0,39.99,132.0,5.0,170.0
+Jurassic Park Velociraptor Chase ,Jurassic World,360.0,39.99,132.0,4.0,195.0
+Winter Village Fire Station,Creator Expert,1166.0,99.99,136.0,8.0,323.0
+Fire Stone Mech,NINJAGO,968.0,69.99,136.0,5.0,260.0
+Death Star Final Duel,Star Wars,775.0,99.99,140.0,4.0,241.0
+Hedwig,Harry Potter,630.0,39.99,148.0,1.0,166.0
+Tree House Treasures ,Creator 3-in-1,260.0,29.99,152.0,2.0,119.0
+Monkie Kid's Cloud Jet,Monkie Kid,390.0,59.99,168.0,4.0,199.0
+Zane's Mino Creature,NINJAGO,616.0,49.99,172.0,4.0,202.0
+Attack on The Burrow,Harry Potter,1047.0,99.99,180.0,8.0,383.0
+Police Brick Box,City,301.0,39.99,188.0,4.0,162.0
+Outback Cabin,Creator 3-in-1,305.0,29.99,196.0,2.0,141.0
+Demon Bull King,Monkie Kid,585.0,89.99,200.0,3.0,264.0
+Skull Sorcerer's Dragon,NINJAGO,1016.0,79.99,200.0,6.0,303.0
+Alpaca Mountain Jungle Rescue,Friends,512.0,59.99,208.0,2.0,270.0
+Pigsy's Food Truck,Monkie Kid,455.0,69.99,212.0,4.0,299.0
+Heartlake City Brick Box,Friends,321.0,39.99,220.0,2.0,121.0
+Y-wing Starfighter,Star Wars,1967.0,199.99,220.0,2.0,359.0
+Red Son's Inferno Truck,Monkie Kid,1111.0,119.99,244.0,5.0,350.0
+Skull Sorcerer's Dungeons,NINJAGO,1171.0,99.99,256.0,8.0,425.0
+Monkey King Warrior Mech,Monkie Kid,975.0,149.99,272.0,6.0,435.0
+Haunted House,Creator Expert,3231.0,249.99,312.0,8.0,467.0
+Destiny's Bounty,NINJAGO,1781.0,129.99,316.0,7.0,479.0
+Ski Resort,City,806.0,89.99,328.0,11.0,348.0
+Disney Train and Station,Powered UP,2925.0,329.99,397.0,5.0,509.0
+1989 Batmobile,Batman,3306.0,249.99,404.0,3.0,484.0
+Tree House,Ideas,3036.0,199.99,428.0,4.0,482.0
+Welcome to Apocalypseburg!,THE LEGO MOVIE 2,3178.0,299.99,452.0,13.0,692.0
+Jurassic Park: T. rex Rampage,Jurassic World,3120.0,249.99,464.0,6.0,525.0
+Monkie Kid's Team Secret HQ,Monkie Kid,1105.0,169.99,556.0,7.0,622.0

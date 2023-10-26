@@ -3,7 +3,7 @@ import pandas as pd
 datasett = pd.read_csv("data/lego.population.csv", sep = ",", encoding = "latin1")
 
 # Liste med variabler vi vil ha igjen
-kolonner = ['Set_Name', 'Theme', 'Price']
+kolonner = ['Set_Name', 'Theme', 'Pieces', 'Price', 'Pages', 'Minifigures', 'Unique_Pieces']
 
 # fjerner forklaringsvariabler vi ikke trenger
 rensket_datasett = datasett[kolonner]
