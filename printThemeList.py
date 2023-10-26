@@ -1,6 +1,6 @@
 import pandas as pd
 
-datasett = pd.read_csv("data/lego.population.csv", sep = ",", encoding = "latin1")
+datasett = pd.read_csv("data/lego.population.clean.csv", sep = ",", encoding = "latin1")
 
 unique_themes = datasett['Theme'].unique()
 
@@ -9,7 +9,7 @@ for theme in unique_themes:
 
 chosen_theme = input("Choose a theme (Type exit to close): ")
 while chosen_theme:
-    if chosen_theme == "exit":
+    if chosen_theme.lower() == "exit":
         break
     if chosen_theme in unique_themes:
         # Vis alle Set_Name i temaet uten å vise indeks
@@ -18,5 +18,4 @@ while chosen_theme:
             print(settNavn)
     else:
         print("Theme not found. Try again.")
-        chosen_theme = input("Choose a theme (Type exit to close): ")
     chosen_theme = input("Choose a theme (Type exit to close): ")
