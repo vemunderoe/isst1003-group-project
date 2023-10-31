@@ -5,6 +5,6 @@ datasett = pd.read_csv("data/lego.population.clean.csv", sep = ",", encoding = "
 
 plt.hist(datasett['Price'], bins=20, color='skyblue', edgecolor='black')
 plt.xlabel('Pris i dollar [$]')
-plt.ylabel('')
+plt.ylabel('Antall byggesett')
 plt.gca().set_aspect(1)
 plt.show()
