@@ -1,23 +1,13 @@
 Set_Name,Theme,Pieces,Price,Pages,Minifigures,Unique_Pieces,Kjønn
-Stephanie's Summer Heart Box,Friends,95.0,7.99,40.0,1.0,52.0,jente
-Woody & RC,Disney,69.0,9.99,28.0,1.0,36.0,nøytralt
-Mia's Summer Heart Box,Friends,85.0,7.99,36.0,1.0,41.0,jente
-Olivia's Summer Heart Box,Friends,93.0,7.99,40.0,2.0,48.0,jente
 Police Patrol Car,City,92.0,9.99,36.0,1.0,52.0,gutt
-Prince Puppycorn Trike,Unikitty,101.0,9.99,56.0,3.0,65.0,nøytralt
 Kai Avatar - Arcade Pod,NINJAGO,49.0,9.99,3.0,2.0,31.0,gutt
 Jay Avatar - Arcade Pod,NINJAGO,47.0,9.99,3.0,2.0,28.0,gutt
-Police Bike,DUPLO,8.0,9.99,10.0,1.0,7.0,nøytralt
-Pizza Stand,DUPLO,18.0,9.99,12.0,1.0,15.0,nøytralt
-Emma's Mobile Veterinary Clinic ,Friends,50.0,9.99,28.0,1.0,35.0,jente
 Barbecue Burn Out,City,64.0,9.99,28.0,2.0,45.0,gutt
 Monster Truck,City,55.0,9.99,32.0,1.0,34.0,gutt
 Jet Patrol,City,54.0,9.99,36.0,2.0,45.0,gutt
 Construction Loader,City,88.0,9.99,36.0,1.0,50.0,gutt
 Stunt Team,City,62.0,9.99,36.0,2.0,34.0,gutt
 Cole's Speeder Car,NINJAGO,52.0,9.99,36.0,2.0,32.0,gutt
-Ice Cream Cart,Friends,97.0,9.99,40.0,1.0,60.0,jente
-Puppy Playground,Friends,57.0,9.99,40.0,1.0,41.0,jente
 Police Dog Unit,City,67.0,9.99,40.0,2.0,48.0,gutt
 Resistance Y-wing Microfighter,Star Wars,86.0,9.99,40.0,1.0,44.0,gutt
 Street Sweeper,City,89.0,9.99,48.0,1.0,55.0,gutt
@@ -25,13 +15,8 @@ Mail Plane,City,74.0,9.99,52.0,1.0,55.0,gutt
 Satellite Service Mission,City,84.0,9.99,56.0,1.0,52.0,gutt
 Forest Fire,City,84.0,9.99,56.0,1.0,49.0,gutt
 Jungle Raider,NINJAGO,127.0,9.99,60.0,1.0,61.0,gutt
-Unikitty Cloud Car,Unikitty,126.0,9.99,60.0,3.0,83.0,nøytralt
 Ocean Mini-Submarine,City,41.0,9.99,37.0,1.0,30.0,gutt
-Olivia's Flower Garden,Friends,92.0,9.99,48.0,2.0,61.0,jente
-Aurora's Royal Carriage,Disney,62.0,9.99,28.0,1.0,35.0,nøytralt
 Lloyd Avatar - Arcade Pod,NINJAGO,48.0,9.99,3.0,2.0,28.0,gutt
-Moana's Ocean Adventure,Disney,46.0,9.99,36.0,1.0,39.0,nøytralt
-The Taiga Adventure,Minecraft,74.0,9.99,40.0,2.0,48.0,nøytralt
 Kylo Ren's Shuttle Microfighter,Star Wars,72.0,9.99,40.0,1.0,40.0,gutt
 Thanos Mech,Marvel,152.0,9.99,56.0,1.0,62.0,gutt
 Iron Man Mech,Marvel,148.0,9.99,64.0,1.0,61.0,gutt
@@ -39,191 +24,99 @@ Spider-Man Mech,Marvel,152.0,9.99,68.0,1.0,62.0,gutt
 Batboat The Penguin Pursuit!,Batman,54.0,9.99,44.0,2.0,41.0,gutt
 Mighty Micros: Scarlet Spider vs. Sandman,Marvel,89.0,9.99,7.0,2.0,49.0,gutt
 Arctic Exploration Team,City,70.0,9.99,28.0,3.0,47.0,gutt
-Unikitty's Sweetest Friends EVER!,THE LEGO MOVIE 2,76.0,9.99,36.0,3.0,50.0,nøytralt
-Olivia's Heart Box,Friends,85.0,7.99,32.0,2.0,38.0,jente
 Chevrolet Camaro ZL1 Race Car,Speed Champions,198.0,14.99,60.0,1.0,81.0,gutt
 McLaren Senna,Speed Champions,219.0,14.99,64.0,1.0,92.0,gutt
 1974 Porsche 911 Turbo 3.0,Speed Champions,180.0,14.99,80.0,1.0,75.0,gutt
 Sith Troopers Battle Pack,Star Wars,105.0,14.99,40.0,3.0,51.0,gutt
 Mandalorian Battle Pack,Star Wars,102.0,14.99,44.0,4.0,59.0,gutt
-Playroom,DUPLO,17.0,14.99,2.0,2.0,16.0,nøytralt
 Death Star Cannon,Star Wars,159.0,19.99,80.0,2.0,79.0,gutt
 Arctic Ice Glider,City,50.0,6.99,28.0,1.0,30.0,gutt
 Spinjitzu Slam - Jay,NINJAGO,72.0,9.99,44.0,1.0,37.0,gutt
-Emma's Summer Heart Box,Friends,86.0,7.99,36.0,1.0,45.0,jente
-Bedroom,DUPLO,16.0,14.99,2.0,2.0,16.0,nøytralt
-Stephanie's Heart Box,Friends,85.0,7.99,32.0,1.0,36.0,jente
-Andrea's Summer Heart Box,Friends,83.0,7.99,36.0,1.0,46.0,jente
 Cole - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,54.0,gutt
 The Samurai Mech,NINJAGO,154.0,14.99,48.0,3.0,71.0,gutt
-Introducing Queen Watevra Wa'Nabi,THE LEGO MOVIE 2,115.0,19.99,48.0,4.0,82.0,nøytralt
 Ferrari F40 Competizione,Speed Champions,198.0,14.99,56.0,1.0,72.0,gutt
 Spinjitzu Slam - Lloyd,NINJAGO,70.0,9.99,44.0,1.0,34.0,gutt
-Mia's Play Cube - Cinema,Friends,37.0,9.99,5.0,1.0,31.0,jente
 Monastery Training,NINJAGO,122.0,9.99,40.0,2.0,65.0,gutt
-Systar Party Crew,THE LEGO MOVIE 2,196.0,19.99,80.0,2.0,104.0,nøytralt
-Party Time,Unikitty,214.0,19.99,80.0,4.0,119.0,nøytralt
-Mulan's Storybook Adventures,Disney,124.0,19.99,3.0,3.0,72.0,nøytralt
-Toy Story Train,Disney,21.0,19.99,8.0,2.0,19.0,nøytralt
-Carnival Thrill Coaster,Disney,98.0,19.99,44.0,2.0,56.0,nøytralt
-Expecto Patronum,Harry Potter,121.0,19.99,48.0,3.0,55.0,nøytralt
 Vulture's Trucker Robbery,Marvel,93.0,19.99,48.0,3.0,62.0,gutt
 Captain America: Outriders Attack,Marvel,167.0,19.99,52.0,3.0,75.0,gutt
 Cole's Dirt Bike,NINJAGO,212.0,19.99,56.0,3.0,97.0,gutt
-The Rise of Voldemort,Harry Potter,184.0,19.99,56.0,6.0,102.0,nøytralt
-Mia's Foal Stable ,Friends,118.0,19.99,64.0,1.0,66.0,jente
 Welcome to the Hidden Side,Hidden Side,189.0,19.99,68.0,4.0,103.0,gutt
-The Chicken Coop,Minecraft,198.0,19.99,72.0,1.0,90.0,nøytralt
-The End Battle,Minecraft,222.0,19.99,72.0,2.0,91.0,nøytralt
 Construction Bulldozer,City,126.0,19.99,84.0,2.0,81.0,gutt
 Avengers Speeder Bike Attack,Marvel,226.0,19.99,104.0,3.0,97.0,gutt
 Snow Groomer,City,197.0,19.99,60.0,2.0,81.0,gutt
-Anna's Canoe Expedition,LEGO Frozen 2,108.0,19.99,64.0,2.0,61.0,jente
 Diving Yacht,City,148.0,19.99,64.0,2.0,81.0,gutt
-Emmet's Thricycle!,THE LEGO MOVIE 2,174.0,14.99,84.0,1.0,100.0,nøytralt
 Garbage Truck,City,90.0,19.99,40.0,2.0,52.0,gutt
-Anna and Elsa's Storybook Adventures,LEGO Frozen 2,133.0,19.99,3.0,4.0,71.0,jente
-Ariel's Storybook Adventures,Disney,105.0,19.99,3.0,3.0,61.0,nøytralt
-Belle's Storybook Adventures,Disney,111.0,19.99,3.0,5.0,71.0,nøytralt
 Mountain Fugitives,City,88.0,9.99,36.0,4.0,61.0,gutt
-Jasmine's Petite Tower,Disney,49.0,9.99,24.0,1.0,35.0,nøytralt
-Poppy's Pod,Trolls World Tour,103.0,19.99,68.0,1.0,70.0,jente
-Techno Reef Dance Party,Trolls World Tour,173.0,19.99,72.0,1.0,85.0,jente
-The Zombie Cave,Minecraft,241.0,19.99,84.0,3.0,88.0,nøytralt
-Emma's Play Cube - Toy Store,Friends,49.0,9.99,5.0,1.0,42.0,jente
-Andrea's Heart Box,Friends,84.0,7.99,32.0,1.0,38.0,jente
 Speed Record Car,City,78.0,9.99,40.0,1.0,47.0,gutt
 Jack's Beach Buggy,Hidden Side,170.0,19.99,56.0,3.0,98.0,gutt
-The Wool Farm,Minecraft,260.0,19.99,80.0,1.0,81.0,nøytralt
 Duel on Mustafar ,Star Wars,208.0,19.99,80.0,2.0,84.0,gutt
-Rex's Rex-treme Offroader!,THE LEGO MOVIE 2,236.0,29.99,132.0,2.0,109.0,nøytralt
 Imperial Patrol Battle Pack,Star Wars,99.0,14.99,36.0,3.0,43.0,gutt
-The Panda Nursery,Minecraft,204.0,19.99,48.0,1.0,76.0,nøytralt
-Good Morning Sparkle Babies!,THE LEGO MOVIE 2,50.0,9.99,32.0,4.0,44.0,nøytralt
-Unstoppable Bike Chase,Minions,136.0,19.99,60.0,3.0,79.0,nøytralt
 Ice-Cream Truck,City,200.0,19.99,100.0,2.0,112.0,gutt
-Emma's Heart Box,Friends,85.0,7.99,32.0,1.0,38.0,jente
-Mulan's Training Day,Disney,104.0,14.99,36.0,1.0,62.0,nøytralt
-Elsa and Olaf's Tea Party,DUPLO,17.0,19.99,12.0,2.0,13.0,nøytralt
-Olivia's Play Cube - Researcher,Friends,40.0,9.99,5.0,1.0,34.0,jente
-Mia's Play Cube - Veterinarian,Friends,40.0,9.99,5.0,1.0,32.0,jente
-Emma's Play Cube - Photographer,Friends,36.0,9.99,5.0,1.0,31.0,jente
-Andrea's Car & Stage,Friends,240.0,19.99,68.0,2.0,116.0,jente
-Submarine Adventure,DUPLO,24.0,19.99,8.0,2.0,22.0,nøytralt
-Fire Truck,DUPLO,21.0,19.99,10.0,2.0,16.0,nøytralt
-Minnie's Birthday Party,Disney,21.0,19.99,12.0,1.0,18.0,nøytralt
 Spinjitzu Zane,NINJAGO,109.0,9.99,32.0,1.0,21.0,gutt
-Juice Truck,Friends,103.0,19.99,52.0,2.0,75.0,jente
 Kai's Fire Dragon,NINJAGO,81.0,19.99,60.0,2.0,48.0,gutt
 Safari Off-Roader,City,168.0,19.99,76.0,2.0,86.0,gutt
-Heartlake City Hair Salon,Friends,235.0,19.99,84.0,2.0,138.0,jente
 T-16 Skyhopper vs Bantha Microfighters,Star Wars,198.0,19.99,84.0,2.0,100.0,gutt
 Kai's Mech Jet,NINJAGO,217.0,19.99,116.0,2.0,94.0,gutt
 Naboo Starfighter Microfighter,Star Wars,62.0,9.99,36.0,1.0,42.0,gutt
 Spinjitzu Slam - Zane,NINJAGO,63.0,9.99,40.0,1.0,37.0,gutt
-Stephanie's Play Cube - Baker,Friends,44.0,9.99,5.0,1.0,37.0,jente
-Mia's Heart Box,Friends,83.0,7.99,32.0,1.0,38.0,jente
-Olivia's Play Cube - Sweet Shop,Friends,47.0,9.99,5.0,1.0,40.0,jente
 Desert Rally Racer,City,75.0,9.99,36.0,1.0,45.0,gutt
-Andrea's Play Cube - Singer,Friends,49.0,9.99,5.0,1.0,32.0,jente
-Rapunzel's Small Tower,Disney,44.0,9.99,24.0,1.0,28.0,nøytralt
-Mia's Forest Adventures ,Friends,134.0,14.99,44.0,1.0,77.0,jente
 Nissan GT-R NISMO,Speed Champions,298.0,19.99,80.0,1.0,101.0,gutt
 Cole - Spinjitzu Master,NINJAGO,73.0,9.99,32.0,1.0,40.0,gutt
 Zane - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,54.0,gutt
 Mighty Micros: Star-Lord vs. Nebula,Marvel,86.0,9.99,7.0,2.0,45.0,gutt
 Zane - Spinjitzu Master,NINJAGO,69.0,9.99,32.0,1.0,38.0,gutt
-Andrea's Play Cube - Pet Shop,Friends,40.0,9.99,5.0,1.0,33.0,jente
-Bubbles Playground Showdown,Powerpuff Girls,144.0,19.99,48.0,3.0,92.0,jente
-Benny's Space Squad,THE LEGO MOVIE 2,68.0,9.99,32.0,5.0,53.0,nøytralt
 Lloyd's Journey,NINJAGO,81.0,14.99,36.0,2.0,50.0,gutt
-Olivia's Hamster Playground,Friends,81.0,9.99,40.0,1.0,52.0,jente
 Snowspeeder,Star Wars,91.0,19.99,56.0,2.0,64.0,gutt
-Hogwarts Room of Requirement,Harry Potter,193.0,19.99,60.0,4.0,90.0,nøytralt
 Dr. Wu's Lab: Baby Dinosaurs Breakout,Jurassic World,164.0,19.99,64.0,2.0,100.0,gutt
-Heartlake City Park Cafï¿½,Friends,224.0,19.99,72.0,2.0,117.0,jente
 Spider-Man vs. Doc Ock,Marvel,234.0,19.99,72.0,3.0,80.0,gutt
 Ferrari F8 Tributo,Speed Champions,275.0,19.99,72.0,1.0,92.0,gutt
 1985 Audi Sport Quattro S1,Speed Champions,250.0,19.99,76.0,1.0,102.0,gutt
-Emmet and Benny's 'Build and Fix' Workshop!,THE LEGO MOVIE 2,117.0,19.99,48.0,2.0,73.0,nøytralt
-Duke Caboom's Stunt Show,Disney,120.0,19.99,48.0,2.0,62.0,nøytralt
 Golden Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,54.0,gutt
 J.B.'s Submarine,Hidden Side,224.0,19.99,64.0,3.0,120.0,gutt
 Battle-Ready Batman and MetalBeard,Batman,168.0,19.99,64.0,2.0,98.0,gutt
-Baby Elephant Jungle Rescue,Friends,203.0,19.99,68.0,2.0,111.0,jente
-Wrecking Ball,Overwatch,227.0,19.99,84.0,1.0,78.0,nøytralt
 Kai - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,53.0,gutt
 Batman vs. The Riddler Robbery,Batman,59.0,9.99,36.0,2.0,44.0,gutt
-World Fun,Classic,295.0,19.99,53.0,2.0,149.0,nøytralt
 Mining Power Splitter,City,127.0,19.99,60.0,1.0,85.0,gutt
-Buzz and Bo Peep's Playground Adventure,Disney,139.0,24.99,48.0,3.0,85.0,nøytralt
-Tracer vs. Widowmaker,Overwatch,129.0,14.99,48.0,2.0,74.0,nøytralt
 Spinjitzu Slam - Kai vs. Samurai,NINJAGO,164.0,19.99,76.0,2.0,67.0,gutt
 Outrider Dropship Attack,Marvel,124.0,14.99,52.0,3.0,63.0,gutt
-Alphabet Truck,DUPLO,36.0,24.99,1.0,2.0,35.0,nøytralt
-Train Bridge and Tracks,DUPLO,26.0,24.99,16.0,1.0,10.0,nøytralt
 Mining Team,City,82.0,9.99,32.0,4.0,64.0,gutt
-Elsa's Market Adventure,Disney,125.0,19.99,48.0,2.0,78.0,nøytralt
 Drone Chase,City,192.0,29.99,100.0,3.0,112.0,gutt
 Jay - Dragon Master,NINJAGO,92.0,14.99,48.0,1.0,53.0,gutt
-Airport,DUPLO,29.0,24.99,20.0,3.0,24.0,nøytralt
 Molten Man Battle,Spider-Man,294.0,29.99,76.0,3.0,117.0,gutt
 Spider-Man Car Chase,Marvel,52.0,9.99,36.0,2.0,38.0,gutt
 J.B.'s Ghost Lab,Hidden Side,174.0,19.99,64.0,3.0,104.0,gutt
 Hoth Generator Attack,Star Wars,235.0,29.99,68.0,2.0,101.0,gutt
 Kayak Adventure,City,84.0,9.99,36.0,1.0,48.0,gutt
-Plane,DUPLO,12.0,9.99,10.0,1.0,11.0,nøytralt
 Airshow Jet,City,87.0,9.99,56.0,1.0,53.0,gutt
 Sith Infiltrator Microfighter,Star Wars,92.0,9.99,40.0,1.0,45.0,gutt
 Dock Side Fire,City,97.0,19.99,48.0,2.0,63.0,gutt
 Graveyard Mystery,Hidden Side,335.0,29.99,112.0,4.0,160.0,gutt
 Fire Helicopter Response,City,93.0,29.99,44.0,3.0,61.0,gutt
-Hungarian Horntail Triwizard Challenge,Harry Potter,265.0,29.99,52.0,4.0,101.0,nøytralt
-Elsa and the Reindeer Carriage,LEGO Frozen 2,116.0,29.99,72.0,1.0,78.0,jente
 Racing Cars,City,190.0,29.99,84.0,2.0,101.0,gutt
-Ultrakatty & Warrior Lucy!,THE LEGO MOVIE 2,348.0,29.99,92.0,2.0,119.0,nøytralt
-Lonesome Flats Raft Adventure,Trolls World Tour,159.0,29.99,100.0,3.0,110.0,jente
-Cinderella's Castle Celebration,Disney,168.0,29.99,100.0,1.0,96.0,nøytralt
 Wrecked Shrimp Boat,Hidden Side,310.0,29.99,108.0,4.0,150.0,gutt
 Jay and Lloyd's Velocity Racers,NINJAGO,322.0,29.99,148.0,3.0,142.0,gutt
-Underwater Loop,Friends,389.0,29.99,76.0,2.0,165.0,jente
 Fire Chief Response Truck,City,201.0,29.99,84.0,2.0,98.0,gutt
 Rover Testing Drive,City,202.0,29.99,96.0,2.0,98.0,gutt
 Shuricopter,NINJAGO,361.0,29.99,100.0,3.0,163.0,gutt
-The Blaze Bridge,Minecraft,372.0,29.99,108.0,3.0,127.0,nøytralt
 2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,Speed Champions,478.0,29.99,124.0,3.0,159.0,gutt
-Hanzo vs. Genji,Overwatch,197.0,19.99,60.0,3.0,84.0,nøytralt
 Resistance A-wing Starfighter,Star Wars,269.0,29.99,84.0,2.0,112.0,gutt
-Mia's Organic Food Market,Friends,115.0,19.99,56.0,1.0,70.0,jente
-Poppy's Air Balloon Adventure,Trolls World Tour,250.0,29.99,68.0,3.0,121.0,jente
 First Order TIE Fighter Microfighter,Star Wars,91.0,9.99,40.0,1.0,47.0,gutt
 Nya - Spinjitzu Master,NINJAGO,69.0,9.99,32.0,1.0,43.0,gutt
-Pteranodon Escape,Juniors,84.0,19.99,56.0,2.0,60.0,nøytralt
-The Pillager Outpost,Minecraft,303.0,29.99,68.0,3.0,94.0,nøytralt
 The Menace of Mysterio,Marvel,163.0,29.99,128.0,3.0,97.0,gutt
 Monster Truck,City,192.0,19.99,76.0,1.0,76.0,gutt
-Brick Box,DUPLO,65.0,29.99,20.0,2.0,46.0,nøytralt
 Police Highway Arrest,City,185.0,29.99,108.0,2.0,98.0,gutt
-Super Heroes Lab,DUPLO,30.0,29.99,16.0,3.0,23.0,nøytralt
 Gamer's Market,NINJAGO,218.0,29.99,64.0,9.0,133.0,gutt
-Nature Glamping,Friends,241.0,29.99,72.0,2.0,110.0,jente
 Empire Dragon,NINJAGO,286.0,29.99,80.0,3.0,118.0,gutt
-Olivia's Cupcake Cafe,Friends,335.0,29.99,100.0,2.0,185.0,jente
 Race Boat Transporter,City,238.0,29.99,124.0,2.0,123.0,gutt
 Wild River Escape,City,126.0,19.99,56.0,2.0,71.0,gutt
-Service & Care Truck,Friends,247.0,19.99,84.0,1.0,123.0,jente
 War Machine Buster,Marvel,362.0,34.99,64.0,4.0,122.0,gutt
 El Fuego's Stunt Truck,Hidden Side,428.0,39.99,156.0,4.0,198.0,gutt
 Anakin's Jedi Starfighter,Star Wars,247.0,19.99,84.0,2.0,111.0,gutt
 The Golden Dragon,NINJAGO,171.0,19.99,60.0,3.0,74.0,gutt
 Tatooine Battle Pack,Star Wars,97.0,14.99,36.0,4.0,53.0,gutt
 Obi-Wan's Hut,Star Wars,200.0,29.99,68.0,4.0,118.0,gutt
-Heart Box Friendship Pack,Friends,199.0,19.99,60.0,2.0,90.0,jente
-RV Vacation,Disney,178.0,34.99,72.0,3.0,106.0,nøytralt
 Mighty Micros: Thor vs. Loki,Marvel,79.0,9.99,7.0,2.0,47.0,gutt
 Duel on Starkiller Base,Star Wars,191.0,19.99,68.0,2.0,83.0,gutt
-Stephanie's Bedroom,Friends,95.0,9.99,44.0,1.0,72.0,jente
-Race Plane,Creator 3-in-1,333.0,29.99,200.0,1.0,134.0,nøytralt
 Action Battle Endor Assault,Star Wars,193.0,29.99,64.0,2.0,108.0,gutt
 Ski Speeder vs. First Order Walker Microfighters,Star Wars,216.0,19.99,92.0,2.0,94.0,gutt
 Anakin's Podracer ï¿½ 20th Anniversary Edition,Star Wars,279.0,29.99,84.0,3.0,110.0,gutt
@@ -233,49 +126,30 @@ Dilophosaurus on the Loose,Jurassic World,168.0,19.99,60.0,3.0,88.0,gutt
 Luke Skywalker's Landspeeder,Star Wars,236.0,29.99,72.0,3.0,104.0,gutt
 Jay - Spinjitzu Master,NINJAGO,68.0,9.99,32.0,1.0,39.0,gutt
 Spinjitzu Nya & Wu,NINJAGO,227.0,19.99,56.0,2.0,49.0,gutt
-Aragog's Lair,Harry Potter,157.0,14.99,56.0,2.0,82.0,nøytralt
 Anakin's Jedi Interceptor,Star Wars,248.0,29.99,68.0,2.0,100.0,gutt
 A-Wing vs. TIE Silencer Microfighters,Star Wars,188.0,19.99,72.0,2.0,88.0,gutt
 Velociraptor: Biplane Rescue Mission,Jurassic World,101.0,29.99,76.0,2.0,72.0,gutt
-Forbidden Forest: Umbridge's Encounter,Harry Potter,253.0,29.99,84.0,4.0,121.0,nøytralt
 Spiderjet vs. Venom Mech,Marvel,371.0,29.99,84.0,3.0,136.0,gutt
 El Fuego's Stunt Plane,Hidden Side,295.0,29.99,92.0,3.0,149.0,gutt
 Newbury Subway,Hidden Side,348.0,29.99,108.0,3.0,146.0,gutt
-Emma's Fashion Shop,Friends,343.0,29.99,112.0,2.0,152.0,jente
-Panda Jungle Tree House,Friends,265.0,29.99,120.0,2.0,149.0,jente
 Formula E Panasonic Jaguar Racing GEN2 Car & Jaguar I-PACE eTROPHY,Speed Champions,565.0,29.99,128.0,2.0,186.0,gutt
-Bakery,DUPLO,46.0,34.99,20.0,2.0,33.0,nøytralt
-Police Station,DUPLO,38.0,29.99,22.0,3.0,25.0,nøytralt
 Kai - Spinjitzu Master,NINJAGO,61.0,9.99,32.0,1.0,33.0,gutt
 First Order Specialists Battle Pack,Star Wars,108.0,14.99,36.0,3.0,48.0,gutt
 X-wing Starfighter Trench Run,Star Wars,132.0,29.99,64.0,3.0,65.0,gutt
 Supernatural Race Car,Hidden Side,244.0,29.99,80.0,3.0,115.0,gutt
 Spinjitzu Kai,NINJAGO,97.0,9.99,32.0,1.0,23.0,gutt
-Ariel's Underwater Concert,Juniors,92.0,14.99,40.0,1.0,55.0,nøytralt
-Emmet and Lucy's Visitors from the DUPLO Planet,THE LEGO MOVIE 2,53.0,29.99,25.0,2.0,37.0,nøytralt
 Ford Fiesta M-Sport WRC,Speed Champions,203.0,14.99,60.0,1.0,88.0,gutt
 Off-Road Chase,City,37.0,6.99,20.0,2.0,28.0,gutt
-Turtles Rescue Mission,Friends,225.0,19.99,72.0,2.0,125.0,jente
 Parachute Arrest,City,218.0,39.99,120.0,4.0,139.0,gutt
 City Advent Calendar,City,234.0,29.99,3.0,8.0,161.0,gutt
 Pteranodon Chase,Jurassic World,126.0,19.99,44.0,2.0,68.0,gutt
-Dolphins Rescue Mission,Friends,363.0,39.99,116.0,2.0,192.0,jente
 Spider-Man Bike Rescue,Marvel,235.0,19.99,92.0,3.0,98.0,gutt
 People Pack - Fun Fair,City,183.0,39.99,64.0,14.0,138.0,gutt
-Elsa's Jewellery Box,LEGO Frozen 2,300.0,39.99,96.0,1.0,89.0,jente
 Ninja Tuner Car,NINJAGO,419.0,39.99,108.0,3.0,143.0,gutt
 Mars Research Shuttle,City,273.0,39.99,160.0,2.0,135.0,gutt
-The Knight Bus,Harry Potter,403.0,39.99,84.0,3.0,128.0,nøytralt
 Fire Fang,NINJAGO,463.0,39.99,88.0,4.0,175.0,gutt
 Batman: The Attack of the Talons,Batman,155.0,19.99,60.0,3.0,82.0,gutt
-Buzz & Woody's Carnival Mania!,Disney,230.0,49.99,52.0,5.0,106.0,nøytralt
-Volcano Rock City Concert,Trolls World Tour,387.0,39.99,120.0,3.0,175.0,jente
-Stephanie's Buggy & Trailer ,Friends,166.0,19.99,48.0,1.0,97.0,jente
-Road Repair Truck,Juniors,73.0,9.99,32.0,1.0,50.0,nøytralt
-Heartlake City Supermarket,Friends,140.0,29.99,68.0,2.0,90.0,jente
 Katana V11,NINJAGO,257.0,19.99,84.0,2.0,111.0,gutt
-Elastigirl's Rooftop Pursuit,Juniors,95.0,19.99,64.0,2.0,77.0,nøytralt
-Belle's Story Time,Juniors,87.0,14.99,44.0,2.0,66.0,nøytralt
 Spider-Man vs. Scorpion Street Showdown,Marvel,125.0,19.99,64.0,2.0,82.0,gutt
 City Advent Calendar,City,313.0,29.99,4.0,6.0,194.0,gutt
 Arctic Ice Crawler,City,200.0,24.99,92.0,1.0,80.0,gutt
@@ -285,269 +159,141 @@ Elite Praetorian Guard Battle Pack,Star Wars,109.0,14.99,40.0,4.0,52.0,gutt
 Wonder Woman vs. Cheetah,DC,371.0,39.99,84.0,3.0,130.0,gutt
 Jay's Storm Fighter,NINJAGO,490.0,39.99,140.0,4.0,195.0,gutt
 Forest Tractor,City,174.0,19.99,64.0,1.0,77.0,gutt
-Mia's Horse Trailer,Friends,216.0,29.99,76.0,2.0,119.0,jente
-Andrea's Bedroom,Friends,85.0,9.99,44.0,1.0,60.0,jente
-Mountain Police Chase,Juniors,115.0,19.99,64.0,2.0,85.0,nøytralt
-Daredevil Stunt Plane,Creator 3-in-1,200.0,19.99,120.0,1.0,86.0,nøytralt
-Dr. Fox Laboratory,Unikitty,359.0,29.99,132.0,4.0,163.0,nøytralt
 Police Helicopter Chase,City,212.0,39.99,128.0,4.0,127.0,gutt
-Stephanie's Obstacle Course,Friends,337.0,39.99,100.0,2.0,168.0,jente
-Baking Competition,Friends,361.0,39.99,104.0,3.0,157.0,jente
 Golden Mech,NINJAGO,489.0,39.99,108.0,4.0,172.0,gutt
 Batman Batsub and the Underwater Clash,Batman,174.0,19.99,64.0,3.0,82.0,gutt
 Batmobile: Pursuit of The Joker,Batman,342.0,29.99,80.0,2.0,114.0,gutt
-Friends Advent Calendar,Friends,330.0,29.99,2.0,3.0,158.0,jente
-Mojo Jojo Strikes,Powerpuff Girls,228.0,29.99,76.0,4.0,149.0,jente
-The Skull Arena,Minecraft,198.0,19.99,68.0,2.0,68.0,nøytralt
-Mia's Bedroom,Friends,86.0,9.99,48.0,1.0,63.0,jente
 Han Solo's Landspeeder,Star Wars,345.0,29.99,96.0,2.0,126.0,gutt
-Farmers' Market,DUPLO,26.0,19.99,9.0,3.0,18.0,nøytralt
 Inferno Squad Battle Pack,Star Wars,118.0,14.99,40.0,4.0,52.0,gutt
 Spider-Man: Doc Ock Diamond Heist,Marvel,150.0,29.99,96.0,3.0,98.0,gutt
 Batman: Brother Eye Takedown,Batman,269.0,29.99,76.0,3.0,103.0,gutt
 Mr. Freeze Batcycle Battle,Batman,200.0,19.99,68.0,3.0,97.0,gutt
-Outback Adventures,Creator 3-in-1,225.0,19.99,148.0,1.0,103.0,nøytralt
 Jedi and Clone Troopers Battle Pack,Star Wars,102.0,14.99,32.0,3.0,54.0,gutt
 Ferrari 488 GT3 Scuderia Corsa,Speed Champions,179.0,14.99,56.0,1.0,78.0,gutt
 The Bat-Dune Buggy,DC,198.0,19.99,64.0,2.0,92.0,gutt
 Ambulance Helicopter,City,190.0,19.99,84.0,3.0,108.0,gutt
-LEGO Movie Maker,THE LEGO MOVIE 2,482.0,49.99,96.0,6.0,243.0,nøytralt
-Creative Tuning Shop,Friends,413.0,39.99,108.0,2.0,217.0,jente
-Dorado Showdown,Overwatch,419.0,29.99,124.0,3.0,168.0,nøytralt
 Spinjitzu Lloyd vs. Garmadon,NINJAGO,208.0,19.99,52.0,2.0,44.0,gutt
-Beauxbatons' Carriage: Arrival at Hogwarts ,Harry Potter,430.0,49.99,84.0,4.0,160.0,nøytralt
 Star Wars Advent Calendar,Star Wars,307.0,39.99,4.0,7.0,186.0,gutt
 Rhino Face-Off by the Mine,Marvel,229.0,19.99,88.0,3.0,100.0,gutt
 Iron Man Hulkbuster versus A.I.M. Agent,Marvel,456.0,39.99,80.0,4.0,143.0,gutt
-Junkrat & Roadhog,Overwatch,380.0,49.99,92.0,2.0,168.0,nøytralt
-Tiger Hot Air Balloon Jungle Rescue,Friends,302.0,39.99,116.0,2.0,145.0,jente
 Avengers Truck Take-down,Marvel,477.0,39.99,116.0,4.0,164.0,gutt
 Ocean Exploration Submarine,City,286.0,39.99,141.0,4.0,131.0,gutt
-Townhouse Toy Store,Creator 3-in-1,554.0,39.99,268.0,2.0,194.0,nøytralt
-Space Rover Explorer,Creator 3-in-1,510.0,39.99,276.0,1.0,206.0,nøytralt
-Riverside Houseboat,Creator 3-in-1,396.0,39.99,200.0,2.0,157.0,nøytralt
 Rebel A-wing Starfighter,Star Wars,62.0,14.99,36.0,2.0,44.0,gutt
-Rapunzel's Castle Bedroom,Disney,156.0,19.99,56.0,1.0,93.0,nøytralt
-Zane's Ninja Boat Pursuit,Juniors,131.0,19.99,64.0,2.0,78.0,nøytralt
-Stephanie's Gymnastics Show,Friends,241.0,29.99,76.0,2.0,114.0,jente
-The Redstone Battle,Minecraft,504.0,39.99,88.0,4.0,133.0,nøytralt
 Spider Mech vs. Venom ,Marvel,604.0,49.99,104.0,4.0,203.0,gutt
 Pasaana Speeder Chase,Star Wars,373.0,39.99,116.0,4.0,177.0,gutt
-Enchanted Tree House,LEGO Frozen 2,302.0,49.99,120.0,3.0,174.0,jente
-Pop Village Celebration,Trolls World Tour,380.0,49.99,120.0,5.0,205.0,jente
 Haunted Fairground,Hidden Side,466.0,49.99,124.0,5.0,212.0,gutt
 Shrimp Shack Attack,Hidden Side,578.0,49.99,128.0,5.0,293.0,gutt
 Newbury Abandoned Prison,Hidden Side,400.0,39.99,132.0,4.0,164.0,gutt
 1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy,Speed Champions,481.0,49.99,64.0,4.0,187.0,gutt
 Superman & Krypto Team-Up,DC,199.0,19.99,76.0,2.0,110.0,gutt
 Black Ace TIE Interceptor,Star Wars,396.0,49.99,84.0,3.0,161.0,gutt
-Andrea's Pool Party,Friends,468.0,49.99,112.0,2.0,221.0,jente
 Garage Centre,City,234.0,49.99,116.0,4.0,62.0,gutt
 AT-ST Raider,Star Wars,540.0,49.99,120.0,4.0,211.0,gutt
 Katana 4X4,NINJAGO,450.0,49.99,128.0,5.0,185.0,gutt
 Batwing and The Riddler Heist,Batman,489.0,49.99,132.0,4.0,212.0,gutt
-Fairground Carousel,Creator 3-in-1,595.0,49.99,236.0,3.0,223.0,nøytralt
-Stephanie's Soccer Practice,Friends,119.0,14.99,48.0,1.0,78.0,jente
-Emma's Art Stand,Friends,210.0,19.99,60.0,1.0,107.0,jente
 Batman and The Joker Escape,Batman,171.0,39.99,72.0,4.0,119.0,gutt
 The Hulkbuster Smash-Up,Marvel,375.0,29.99,84.0,4.0,143.0,gutt
 Imperial Dropship ï¿½ 20th Anniversary Edition,Star Wars,125.0,19.99,60.0,3.0,57.0,gutt
-Raptor Rescue Truck,Juniors,85.0,24.99,56.0,2.0,56.0,nøytralt
-Frozen Ice Castle,Disney,59.0,49.99,28.0,3.0,31.0,nøytralt
 Throne Room Showdown,NINJAGO,221.0,19.99,68.0,5.0,111.0,gutt
-Monster Burger Truck,Creator 3-in-1,499.0,49.99,248.0,2.0,183.0,nøytralt
 Service Station,City,354.0,49.99,193.0,4.0,179.0,gutt
-Andrea's Park Performance,Friends,229.0,24.99,80.0,3.0,126.0,jente
-Harry Potter Advent Calendar,Harry Potter,305.0,39.99,3.0,8.0,151.0,nøytralt
-Olivia's Deluxe Bedroom,Friends,163.0,14.99,60.0,1.0,100.0,jente
 Cloud-Rider Swoop Bikes,Star Wars,355.0,29.99,92.0,3.0,148.0,gutt
 TIE Fighter Attack,Star Wars,77.0,19.99,40.0,2.0,50.0,gutt
-Brick-built Minions and their Lair,Minions,876.0,49.99,184.0,3.0,180.0,nøytralt
 Escape Pod vs. Dewback Microfighters,Star Wars,177.0,19.99,64.0,3.0,79.0,gutt
 Destiny's Wing,NINJAGO,181.0,19.99,76.0,2.0,100.0,gutt
-Mickey's Vacation House,Disney,57.0,49.99,28.0,3.0,37.0,nøytralt
-Fire Station,DUPLO,76.0,49.99,34.0,2.0,47.0,nøytralt
 Jay's Cyber Dragon,NINJAGO,518.0,49.99,84.0,5.0,189.0,gutt
 Hydro-Man Attack,Marvel,471.0,39.99,96.0,4.0,170.0,gutt
 Thunder Raider,NINJAGO,576.0,49.99,148.0,5.0,191.0,gutt
 Police Helicopter Transport,City,317.0,49.99,156.0,4.0,161.0,gutt
 The Lighthouse of Darkness,Hidden Side,540.0,49.99,156.0,5.0,240.0,gutt
-D.Va & Reinhardt,Overwatch,455.0,39.99,108.0,2.0,161.0,nøytralt
-Pirate Ship,Minecraft,386.0,39.99,116.0,3.0,143.0,nøytralt
-Shimmer & Shine Sparkle Spa!,THE LEGO MOVIE 2,694.0,69.99,128.0,8.0,209.0,nøytralt
-Modular Sweet Surprises,Creator 3-in-1,396.0,39.99,184.0,3.0,187.0,nøytralt
 The Joker Batcave Attack,Batman,151.0,24.99,76.0,3.0,94.0,gutt
-Olivia's Mission Vehicle,Friends,223.0,19.99,84.0,1.0,106.0,jente
-Modular Winter Vacation,Creator 3-in-1,374.0,34.99,200.0,2.0,142.0,nøytralt
-Belle's Tea Party,Disney,19.0,19.99,8.0,1.0,16.0,nøytralt
-Wyld-Mayhem Star Fighter,THE LEGO MOVIE 2,405.0,49.99,132.0,4.0,157.0,nøytralt
-City Central Airport,Juniors,376.0,49.99,144.0,5.0,170.0,nøytralt
 Spider-Man vs. Electro,Marvel,29.0,19.99,10.0,2.0,22.0,gutt
 Star Wars Advent Calendar,Star Wars,280.0,39.99,2.0,9.0,177.0,gutt
-Drifting Diner,Friends,345.0,29.99,92.0,2.0,182.0,jente
 Gentle Giants Petting Zoo,Jurassic World,24.0,19.99,13.0,1.0,19.0,gutt
-Ariel's Castle,Disney,115.0,24.99,56.0,1.0,74.0,nøytralt
 Paranormal Intercept Bus 3000,Hidden Side,689.0,59.99,136.0,5.0,272.0,gutt
 Porsche 919 Hybrid,Speed Champions,163.0,14.99,60.0,1.0,75.0,gutt
-Mickey's Boat,Disney,28.0,29.99,24.0,2.0,25.0,nøytralt
 Baryonyx Face-Off: The Treasure Hunt,Jurassic World,434.0,59.99,96.0,4.0,211.0,gutt
 Avengers Hulk Helicopter Rescue,Marvel,482.0,59.99,100.0,4.0,187.0,gutt
 Iron Man Hall of Armour,Marvel,524.0,59.99,104.0,5.0,156.0,gutt
-Hagrid's Hut: Buckbeak's Rescue,Harry Potter,496.0,59.99,120.0,6.0,208.0,nøytralt
-Lighthouse Rescue Centre,Friends,602.0,59.99,180.0,2.0,273.0,jente
-Twin-Rotor Helicopter,Creator 3-in-1,569.0,59.99,228.0,1.0,200.0,nøytralt
 Action Battle Echo Base Defence,Star Wars,504.0,59.99,112.0,5.0,192.0,gutt
-Heartlake City Restaurant,Friends,624.0,59.99,140.0,3.0,201.0,jente
 Lunar Space Station,City,412.0,59.99,172.0,5.0,171.0,gutt
-Andrea's Accessories Store,Friends,294.0,29.99,84.0,2.0,128.0,jente
 Triceratops Rampage,Jurassic World,447.0,59.99,112.0,4.0,200.0,gutt
-Heartlake City Hospital,Friends,379.0,49.99,132.0,3.0,154.0,jente
 Thor's Weapon Quest,Marvel,223.0,19.99,84.0,3.0,112.0,gutt
 Millennium Falcon Microfighter,Star Wars,92.0,9.99,44.0,1.0,48.0,gutt
 T. rex Tower,Jurassic World,22.0,29.99,14.0,1.0,18.0,gutt
 Ahch-To Island Training,Star Wars,241.0,29.99,84.0,2.0,129.0,gutt
 Spider-Man's Spider Crawler ,Marvel,418.0,39.99,84.0,4.0,132.0,gutt
 Moloch's Landspeeder,Star Wars,464.0,39.99,144.0,2.0,163.0,gutt
-Underminer's Bank Heist,Juniors,149.0,24.99,64.0,3.0,99.0,nøytralt
-Emma's Deluxe Bedroom,Friends,183.0,14.99,68.0,1.0,105.0,jente
-Rapunzel's Travelling Caravan,Disney,323.0,39.99,108.0,2.0,171.0,nøytralt
-Belle's Castle Winter Celebration,Disney,238.0,49.99,108.0,6.0,146.0,nøytralt
 Joker's Trike Chase,Batman,440.0,49.99,108.0,4.0,181.0,gutt
-Stephanie's Lakeside House,Friends,215.0,34.99,112.0,3.0,142.0,jente
 Gallimimus and Pteranodon Breakout,Jurassic World,391.0,49.99,112.0,3.0,170.0,gutt
 Kai's Blade Cycle & Zane's Snowmobile,NINJAGO,376.0,29.99,128.0,4.0,189.0,gutt
 Lamborghini Urus ST-X & Huracï¿½n Super Trofeo EVO ,Speed Champions,663.0,49.99,144.0,2.0,202.0,gutt
-Beach House,Friends,444.0,49.99,160.0,2.0,216.0,jente
 Stygimoloch Breakout,Jurassic World,222.0,29.99,84.0,2.0,91.0,gutt
-Ocean's Bottom,Classic,579.0,29.99,57.0,2.0,218.0,nøytralt
 Police Monster Truck Heist,City,362.0,59.99,200.0,5.0,198.0,gutt
 Death Star Escape,Star Wars,329.0,29.99,84.0,4.0,110.0,gutt
-Mia's Tree House,Friends,351.0,29.99,120.0,2.0,151.0,jente
-Andrea's Talent Show,Friends,492.0,49.99,124.0,2.0,184.0,jente
-Steam Train,DUPLO,59.0,59.99,48.0,2.0,38.0,nøytralt
 Fire Plane,City,363.0,59.99,156.0,3.0,151.0,gutt
 Porsche 911 RSR and 911 Turbo 3.0,Speed Champions,391.0,29.99,120.0,3.0,166.0,gutt
 Harvester Transport,City,358.0,29.99,148.0,3.0,166.0,gutt
 Resistance Y-wing Starfighter,Star Wars,578.0,69.99,76.0,5.0,177.0,gutt
 Stark Jet and the Drone Attack,Spider-Man,504.0,69.99,96.0,4.0,176.0,gutt
-Hogwarts Whomping Willow,Harry Potter,753.0,69.99,148.0,6.0,253.0,nøytralt
 Major Vonreg's TIE Fighter,Star Wars,496.0,69.99,92.0,4.0,151.0,gutt
 Fire Station,City,509.0,69.99,184.0,4.0,210.0,gutt
-Large Playground Brick Box,DUPLO,71.0,49.99,32.0,2.0,49.0,nøytralt
 D-O,Star Wars,519.0,69.99,72.0,1.0,149.0,gutt
-Emma's Art Studio,Friends,235.0,24.99,60.0,2.0,122.0,jente
-The Flintstones,Ideas,748.0,59.99,180.0,4.0,242.0,nøytralt
 Lex Luthor Mech Takedown,DC,406.0,39.99,84.0,5.0,159.0,gutt
-Pop-Up Party Bus,THE LEGO MOVIE 2,1024.0,79.99,172.0,4.0,294.0,nøytralt
-The Illager Raid,Minecraft,562.0,59.99,96.0,5.0,187.0,nøytralt
-The Big Race Day,Friends,648.0,59.99,144.0,3.0,252.0,jente
 Avengers Wrath of Loki,Marvel,223.0,59.99,124.0,5.0,137.0,gutt
 Central Airport,City,286.0,59.99,169.0,6.0,168.0,gutt
-The Great Home Escape,Juniors,178.0,29.99,76.0,4.0,123.0,nøytralt
-Tropical Island,DUPLO,73.0,59.99,40.0,3.0,44.0,nøytralt
-Modular Playhouse,DUPLO,129.0,59.99,84.0,3.0,56.0,nøytralt
 Phantom Fire Truck 3000,Hidden Side,760.0,59.99,148.0,6.0,263.0,gutt
-Central Perk,Ideas,1070.0,59.99,156.0,7.0,366.0,nøytralt
-Dinosaur Fossils,Ideas,910.0,59.99,169.0,2.0,201.0,nøytralt
 Batman Mech vs. Poison Ivy Mech ,Batman,375.0,39.99,92.0,4.0,173.0,gutt
-Mobile Stunt Show,Creator 3-in-1,581.0,49.99,224.0,2.0,212.0,nøytralt
-The Melon Farm,Minecraft,69.0,14.99,44.0,3.0,47.0,nøytralt
-Mia's House,Friends,715.0,69.99,192.0,3.0,274.0,jente
 Street Race of Snake Jaguar,NINJAGO,308.0,29.99,112.0,2.0,130.0,gutt
 Snoke's Throne Room,Star Wars,492.0,69.99,104.0,4.0,166.0,gutt
-Hogwarts Express,Harry Potter,801.0,79.99,124.0,6.0,261.0,nøytralt
-Elsa's Ice Palace,LEGO Frozen 2,701.0,79.99,180.0,4.0,234.0,jente
-Arendelle Castle,LEGO Frozen 2,521.0,79.99,192.0,3.0,231.0,jente
 Yoda's Hut,Star Wars,229.0,29.99,72.0,3.0,139.0,gutt
 Dirt Road Pursuit,City,297.0,39.99,116.0,3.0,140.0,gutt
-Emmet and Lucy's Escape Buggy!,THE LEGO MOVIE 2,550.0,49.99,124.0,4.0,199.0,nøytralt
-Cruising Adventures,Creator 3-in-1,597.0,59.99,216.0,3.0,246.0,nøytralt
 Royal Talon Fighter Attack,Marvel,358.0,29.99,100.0,4.0,119.0,gutt
 Pickup & Caravan,City,344.0,29.99,140.0,3.0,188.0,gutt
 Arctic Air Transport,City,277.0,39.99,112.0,2.0,113.0,gutt
-Aladdin's and Jasmine's Palace Adventures,Disney,193.0,29.99,76.0,2.0,114.0,nøytralt
-The Polar Igloo,Minecraft,278.0,29.99,84.0,2.0,95.0,nøytralt
-Watchpoint: Gibraltar,Overwatch,730.0,89.99,192.0,4.0,287.0,nøytralt
-Unikingdom Creative Brick Box,Unikitty,433.0,39.99,172.0,17.0,220.0,nøytralt
 Blue's Helicopter Pursuit,Jurassic World,397.0,39.99,112.0,3.0,177.0,gutt
-Stephanie's Sports Arena,Friends,460.0,44.99,108.0,2.0,188.0,jente
 Heavy Cargo Transport,City,310.0,29.99,128.0,2.0,161.0,gutt
-4 Privet Drive,Harry Potter,797.0,69.99,184.0,6.0,255.0,nøytralt
-Friendship Bus,Friends,778.0,69.99,236.0,3.0,286.0,jente
-Caravan Family Holiday,Creator 3-in-1,766.0,69.99,276.0,3.0,328.0,nøytralt
 People Pack - Outdoor Adventures,City,164.0,39.99,64.0,15.0,128.0,gutt
 Mining Heavy Driller,City,294.0,49.99,124.0,3.0,139.0,gutt
 Knights of Ren Transport Ship,Star Wars,595.0,69.99,136.0,3.0,182.0,gutt
-The Crafting Box 3.0,Minecraft,564.0,69.99,180.0,4.0,128.0,nøytralt
-The Nether Portal,Minecraft,470.0,39.99,112.0,3.0,146.0,nøytralt
-T. Rex Breakout,Juniors,150.0,49.99,76.0,3.0,98.0,nøytralt
 Empire Temple of Madness,NINJAGO,810.0,79.99,160.0,6.0,267.0,gutt
 Lloyd's Titan Mech,NINJAGO,876.0,79.99,164.0,6.0,230.0,gutt
 Monastery of Spinjitzu,NINJAGO,1070.0,79.99,188.0,8.0,359.0,gutt
 Mos Eisley Cantina,Star Wars,376.0,39.99,80.0,4.0,140.0,gutt
 S.O.G. Headquarters,NINJAGO,530.0,39.99,96.0,5.0,246.0,gutt
 First Order AT-ST,Star Wars,370.0,39.99,80.0,4.0,157.0,gutt
-Townhouse Pet Shop & Cafï¿½,Creator 3-in-1,969.0,79.99,356.0,3.0,289.0,nøytralt
 Arctic Scout Truck,City,322.0,59.99,100.0,3.0,148.0,gutt
-Spider-Man & Hulk Adventures,DUPLO,38.0,29.99,20.0,3.0,29.0,nøytralt
 General Grievous' Combat Speeder,Star Wars,157.0,29.99,60.0,2.0,76.0,gutt
-Sunshine Surfer Van,Creator 3-in-1,379.0,34.99,184.0,2.0,160.0,nøytralt
-The Nether Fight,Minecraft,84.0,14.99,40.0,3.0,48.0,nøytralt
 The Ultra Dragon,NINJAGO,951.0,84.99,160.0,6.0,262.0,gutt
-TRON: Legacy,Ideas,230.0,34.99,68.0,3.0,73.0,nøytralt
 Clone Scout Walker ï¿½ 20th Anniversary Edition,Star Wars,250.0,29.99,80.0,5.0,109.0,gutt
 Sith TIE Fighter,Star Wars,470.0,79.99,104.0,3.0,127.0,gutt
 Venomosaurus Ambush,Marvel,640.0,79.99,148.0,5.0,242.0,gutt
-The Creeper Mine,Minecraft,834.0,79.99,164.0,4.0,206.0,nøytralt
 Ocean Exploration Base,City,497.0,79.99,165.0,5.0,180.0,gutt
-Jungle Rescue Base,Friends,648.0,79.99,176.0,3.0,251.0,jente
 Avengers Ultimate Quinjet,Marvel,840.0,79.99,160.0,5.0,252.0,gutt
 Avengers Compound Battle,Marvel,699.0,99.99,168.0,7.0,292.0,gutt
-Party Boat,Friends,640.0,79.99,184.0,3.0,270.0,jente
-Rescue Mission Boat,Friends,908.0,89.99,216.0,4.0,376.0,jente
 Donut Shop Opening,City,790.0,89.99,320.0,10.0,368.0,gutt
-Ariel's Royal Celebration Boat,Disney,380.0,49.99,108.0,2.0,156.0,nøytralt
 Mountain Arrest,City,303.0,59.99,136.0,4.0,168.0,gutt
-Modular Skate House,Creator 3-in-1,422.0,39.99,196.0,2.0,169.0,nøytralt
-Farm Pony Stable,DUPLO,59.0,29.99,25.0,2.0,31.0,nøytralt
 Air Base,City,529.0,89.99,260.0,6.0,270.0,gutt
-Emma's Art Cafï¿½,Friends,378.0,32.99,112.0,2.0,166.0,jente
-Emmet's Dream House/Rescue Rocket!,THE LEGO MOVIE 2,706.0,69.99,260.0,4.0,197.0,nøytralt
 Diamond Heist,City,400.0,59.99,160.0,4.0,191.0,gutt
 AT-AP Walker,Star Wars,689.0,59.99,140.0,4.0,214.0,gutt
-Pop-Up Book,Ideas,859.0,69.99,164.0,5.0,211.0,nøytralt
 Snowspeeder ï¿½ 20th Anniversary Edition,Star Wars,309.0,39.99,116.0,4.0,159.0,gutt
 Poe Dameron's X-wing Fighter,Star Wars,761.0,89.99,124.0,4.0,219.0,gutt
 T. rex vs Dino-Mech Battle,Jurassic World,716.0,89.99,176.0,4.0,254.0,gutt
-Hogwarts Clock Tower,Harry Potter,922.0,89.99,176.0,8.0,276.0,nøytralt
-Mission to Mars,Classic,871.0,59.99,81.0,3.0,330.0,nøytralt
 Avengers Tower Battle,Marvel,685.0,89.99,136.0,7.0,250.0,gutt
 Mobile Bat Base,DC,743.0,89.99,140.0,6.0,275.0,gutt
-Steamboat Willie,Ideas,751.0,89.99,176.0,2.0,202.0,nøytralt
 Yoda,Star Wars,1771.0,99.99,224.0,1.0,235.0,gutt
 Castle of the Forsaken Emperor,NINJAGO,1218.0,99.99,248.0,7.0,361.0,gutt
 Deep Space Rocket and Launch Control,City,837.0,99.99,304.0,7.0,308.0,gutt
 Downtown Fire Brigade,City,943.0,99.99,414.0,7.0,400.0,gutt
 Thanos: Ultimate Battle,Marvel,674.0,69.99,116.0,4.0,190.0,gutt
-Queen Watevra's ï¿½So-Not-Evil' Space Palace,THE LEGO MOVIE 2,997.0,99.99,212.0,5.0,275.0,nøytralt
 Stormbringer,NINJAGO,493.0,39.99,108.0,4.0,182.0,gutt
-"Ariel, Aurora, and Tiana's Royal Celebration",Disney,282.0,39.99,108.0,3.0,131.0,nøytralt
 Oni Titan,NINJAGO,522.0,49.99,96.0,4.0,183.0,gutt
 Cole's Earth Driller ,NINJAGO,587.0,49.99,132.0,4.0,216.0,gutt
-World Animals,DUPLO,121.0,99.99,48.0,6.0,75.0,nøytralt
-Rapunzel's Tower,DUPLO,37.0,29.99,24.0,1.0,26.0,nøytralt
 NASA Apollo 11 Lunar Lander,Creator Expert,1087.0,99.99,124.0,2.0,193.0,gutt
 Batcave Clayface Invasion,Batman,1038.0,99.99,168.0,6.0,333.0,gutt
 Passenger Airplane,City,669.0,99.99,273.0,9.0,288.0,gutt
-Summer Fun Water Park,Friends,1001.0,99.99,316.0,4.0,394.0,jente
-Pirate Ship,Creator 3-in-1,1264.0,99.99,428.0,4.0,359.0,nøytralt
-Sweet Mayhem's Systar Starship!,THE LEGO MOVIE 2,502.0,69.99,100.0,3.0,188.0,nøytralt
 Indominus rex vs. Ankylosaurus,Jurassic World,537.0,99.99,112.0,5.0,216.0,gutt
 Crocodile Locomotive,Creator Expert,1271.0,99.99,132.0,2.0,212.0,gutt
-Hogwarts Astronomy Tower,Harry Potter,971.0,99.99,172.0,8.0,310.0,nøytralt
-Hogwarts Great Hall,Harry Potter,878.0,99.99,184.0,10.0,284.0,nøytralt
 Gingerbread House,Creator Expert,1477.0,99.99,196.0,2.0,321.0,gutt
-Rex's Rexplorer!,THE LEGO MOVIE 2,1187.0,119.99,208.0,2.0,299.0,nøytralt
 Mystery Castle,Hidden Side,1035.0,99.99,296.0,5.0,335.0,gutt
 Police Station,City,743.0,99.99,345.0,7.0,298.0,gutt
 Tuning Workshop,City,897.0,99.99,389.0,7.0,411.0,gutt
@@ -559,13 +305,11 @@ Ninja Nightcrawler,NINJAGO,552.0,39.99,124.0,3.0,205.0,gutt
 T. Rex Transport,Jurassic World,609.0,69.99,156.0,3.0,174.0,gutt
 Imperial Conveyex Transport,Star Wars,622.0,89.99,120.0,4.0,187.0,gutt
 Land Bounty,NINJAGO,1178.0,129.99,252.0,9.0,400.0,gutt
-Heartlake City Amusement Pier,Friends,1251.0,129.99,316.0,7.0,433.0,jente
 Speed Force Freeze Pursuit,DC,271.0,29.99,80.0,4.0,138.0,gutt
 Avengers Helicarrier,Marvel,1244.0,119.99,220.0,8.0,355.0,gutt
 Slave I - 20th Anniversary Edition,Star Wars,1007.0,119.99,164.0,6.0,293.0,gutt
 Firstbourne,NINJAGO,882.0,69.99,172.0,6.0,337.0,gutt
 Corvus Glaive Thresher Attack,Marvel,416.0,39.99,124.0,5.0,168.0,gutt
-Cargo Train,DUPLO,105.0,119.99,64.0,3.0,68.0,nøytralt
 Kylo Ren's Shuttle,Star Wars,1005.0,129.99,184.0,6.0,271.0,gutt
 Darth Vader's Castle,Star Wars,1060.0,129.99,188.0,5.0,285.0,gutt
 Ferrari Ultimate Garage,Speed Champions,841.0,99.99,200.0,7.0,309.0,gutt
@@ -573,51 +317,37 @@ Newbury Haunted High School,Hidden Side,1474.0,129.99,308.0,8.0,482.0,gutt
 Passenger Train,City,677.0,159.99,230.0,4.0,165.0,gutt
 Rocket Assembly &Transport,City,1055.0,149.99,340.0,8.0,364.0,gutt
 Carnotaurus Gyrosphere Escape,Jurassic World,577.0,79.99,140.0,3.0,226.0,gutt
-Sleeping Beauty's Fairytale Castle,Disney,322.0,39.99,84.0,3.0,171.0,nøytralt
 App-Controlled Batmobile,DC,321.0,99.99,108.0,1.0,114.0,gutt
-The Skeleton Attack,Minecraft,457.0,39.99,100.0,3.0,136.0,nøytralt
-Mia's Camper Van,Friends,488.0,54.99,116.0,2.0,222.0,jente
 Mountain Police Headquarters,City,663.0,89.99,272.0,7.0,324.0,gutt
 Droid Gunship,Star Wars,389.0,49.99,84.0,3.0,150.0,gutt
 Ocean Exploration Ship,City,745.0,149.99,229.0,8.0,314.0,gutt
 The Bat-Space Shuttle,DC,643.0,79.99,124.0,6.0,239.0,gutt
 Arctic Mobile Exploration Base,City,786.0,119.99,236.0,6.0,255.0,gutt
-Cinderella's Dream Castle,Disney,585.0,69.99,132.0,2.0,218.0,nøytralt
 Millennium Falcon,Star Wars,1353.0,159.99,268.0,7.0,352.0,gutt
 Killow vs. Samurai X,NINJAGO,556.0,49.99,128.0,3.0,220.0,gutt
-Heartlake City Pet Centre,Friends,474.0,59.99,108.0,3.0,234.0,jente
-The Bedrock Adventures,Minecraft,644.0,89.99,108.0,4.0,168.0,nøytralt
 X-wing Starfighter,Star Wars,730.0,79.99,120.0,4.0,224.0,gutt
-Pirate Roller Coaster,Creator 3-in-1,923.0,89.99,324.0,5.0,277.0,nøytralt
 Imperial Landing Craft,Star Wars,636.0,89.99,108.0,5.0,191.0,gutt
 Bookshop,Creator Expert,2504.0,179.99,216.0,5.0,561.0,gutt
 Cargo Train,City,1227.0,229.99,362.0,6.0,410.0,gutt
-Friendship House,Friends,722.0,69.99,164.0,3.0,309.0,jente
 Vestas Wind Turbine,Creator Expert,826.0,199.99,148.0,3.0,230.0,gutt
 The Hulkbuster: Ultron Edition,Marvel,1363.0,119.99,184.0,1.0,268.0,gutt
 Dragon Pit,NINJAGO,1660.0,129.99,244.0,9.0,424.0,gutt
 Sanctum Sanctorum Showdown,Marvel,1004.0,99.99,220.0,5.0,312.0,gutt
-The Farm Cottage ,Minecraft,549.0,49.99,116.0,3.0,157.0,nøytralt
 The Upside Down,Stranger Things,2287.0,199.99,300.0,8.0,533.0,gutt
 Corner Garage,Creator Expert,2569.0,199.99,236.0,6.0,564.0,gutt
 Tantive IV,Star Wars,1768.0,199.99,260.0,6.0,387.0,gutt
 A-wing Starfighter,Star Wars,1673.0,199.99,272.0,1.0,355.0,gutt
-Pirates of Barracuda Bay,Ideas,2545.0,199.99,460.0,10.0,575.0,nøytralt
 Imperial TIE Fighter,Star Wars,519.0,69.99,76.0,4.0,129.0,gutt
 Indoraptor Rampage at Lockwood Estate,Jurassic World,1019.0,129.99,176.0,6.0,257.0,gutt
 City Hospital,City,861.0,99.99,329.0,13.0,362.0,gutt
 Dieselnaut,NINJAGO,1179.0,109.99,156.0,7.0,308.0,gutt
 Sandcrawler,Star Wars,1239.0,139.99,188.0,6.0,277.0,gutt
-The Rexcelsior!,THE LEGO MOVIE 2,1826.0,149.99,276.0,4.0,377.0,nøytralt
-Heartlake City Resort,Friends,1017.0,99.99,208.0,4.0,326.0,jente
 Mining Experts Site,City,883.0,99.99,244.0,6.0,284.0,gutt
 Capital City,City,1211.0,149.99,441.0,13.0,489.0,gutt
 Downtown Diner,Creator Expert,2480.0,169.99,200.0,6.0,508.0,gutt
 Kessel Run Millennium Falcon,Star Wars,1414.0,169.99,208.0,7.0,318.0,gutt
 Temple of Resurrection,NINJAGO,765.0,69.99,144.0,8.0,297.0,gutt
-Farm Adventures,DUPLO,104.0,59.99,40.0,3.0,42.0,nøytralt
 Roller Coaster,Creator Expert,4124.0,379.99,440.0,11.0,556.0,gutt
-Hogwarts Castle,Harry Potter,6020.0,399.99,636.0,28.0,624.0,nøytralt
 NINJAGO City Docks,NINJAGO,3553.0,229.99,380.0,14.0,690.0,gutt
 Betrayal at Cloud City,Star Wars,2812.0,349.99,388.0,19.0,676.0,gutt
 Imperial Star Destroyer,Star Wars,4784.0,699.99,444.0,2.0,445.0,gutt
@@ -627,46 +357,20 @@ Police Water Plane,City,48.0,3.99,3.0,1.0,36.0,gutt
 Arctic Ice Saw,City,43.0,3.99,3.0,1.0,34.0,gutt
 Space Satellite,City,36.0,3.99,3.0,1.0,24.0,gutt
 Beach Buggy,City,45.0,4.99,3.0,1.0,29.0,gutt
-Olivia's Remote Control Boat,Friends,25.0,3.99,3.0,1.0,23.0,jente
-Unikitty Roller Coaster Wagon,Unikitty,46.0,3.99,3.0,1.0,28.0,nøytralt
-Rex's Plantimal Ambush,THE LEGO MOVIE 2,32.0,3.99,3.0,1.0,23.0,nøytralt
-Poppy's Carriage,Trolls World Tour,51.0,4.99,3.0,1.0,30.0,jente
 DJ,Star Wars,22.0,4.99,3.0,1.0,15.0,gutt
 Ninjago Minifigure Pack,NINJAGO,59.0,12.99,3.0,4.0,33.0,gutt
 Spider-Man and the Museum Break-In,Marvel,49.0,14.99,3.0,3.0,33.0,gutt
-Summer Celebration Minifigure Pack,Minifigures,45.0,12.99,3.0,4.0,35.0,nøytralt
-Police MF Accessory Set,Minifigures,42.0,12.99,3.0,4.0,33.0,nøytralt
-Fairground Accessory Set,Minifigures,51.0,12.99,3.0,4.0,35.0,nøytralt
 Falcon & Black Widow Team-Up,Marvel,60.0,14.99,3.0,3.0,34.0,gutt
 Spinjitzu Burst - Cole,NINJAGO,48.0,9.99,3.0,1.0,31.0,gutt
 Spinjitzu Burst Lloyd,NINJAGO,48.0,9.99,3.0,1.0,30.0,gutt
 Golden Zane Accessory Set ,NINJAGO,73.0,12.99,5.0,4.0,31.0,gutt
-Stephanie's Play Cube - Beauty Salon,Friends,44.0,9.99,5.0,1.0,35.0,jente
-Andrea's Jungle Play Cube,Friends,47.0,9.99,5.0,1.0,43.0,jente
-Stephanie's Jungle Play Cube,Friends,41.0,9.99,5.0,1.0,38.0,jente
 Obi-Wan Kenobi - Collectable Minifigure,Star Wars,12.0,3.99,6.0,1.0,10.0,gutt
-Hogwarts Students Accessory Set,Harry Potter,53.0,14.99,9.0,4.0,33.0,nøytralt
-Bulldozer,DUPLO,10.0,9.99,12.0,1.0,10.0,nøytralt
-Creative Fun,DUPLO,120.0,39.99,13.0,1.0,70.0,nøytralt
-Truck & Tracked Excavator,DUPLO,20.0,19.99,16.0,2.0,19.0,nøytralt
 Batcave,Batman,33.0,29.99,20.0,3.0,25.0,gutt
-Ariel's Undersea Castle,Disney,35.0,29.99,20.0,1.0,27.0,nøytralt
-Wrecking Ball Demolition,DUPLO,56.0,59.99,32.0,3.0,41.0,nøytralt
-Emma's Pet Party,Friends,67.0,9.99,36.0,1.0,50.0,jente
-Olaf's Traveling Sleigh,Disney,97.0,12.99,44.0,1.0,52.0,nøytralt
-Fun Future,Classic,186.0,9.99,49.0,1.0,95.0,nøytralt
-Tower Crane & Construction,DUPLO,123.0,129.99,56.0,5.0,72.0,nøytralt
-Lucy's Builder Box!,THE LEGO MOVIE 2,141.0,29.99,56.0,2.0,71.0,nøytralt
-Emmet's Builder Box!,THE LEGO MOVIE 2,125.0,29.99,56.0,1.0,76.0,nøytralt
 Quantum Realm Explorers,Marvel,200.0,19.99,64.0,3.0,100.0,gutt
-Moana's Island Home,Disney,202.0,29.99,68.0,1.0,121.0,nøytralt
 People Pack - Space Research and Development,City,209.0,39.99,68.0,15.0,146.0,gutt
 Wu's Battle Dragon,NINJAGO,321.0,19.99,68.0,2.0,109.0,gutt
 Iron Man Armory,Marvel,258.0,29.99,68.0,3.0,110.0,gutt
-Diagon Alley,Harry Potter,374.0,19.99,72.0,1.0,116.0,nøytralt
 Dilophosaurus Outpost Attack,Jurassic World,289.0,39.99,72.0,3.0,124.0,gutt
-Mulan's Training Grounds,Disney,157.0,29.99,76.0,1.0,94.0,nøytralt
-Funny Octopus Ride,Friends,324.0,39.99,76.0,2.0,145.0,jente
 Black Widow's Helicopter Chase,Marvel,271.0,29.99,80.0,3.0,125.0,gutt
 Venom Crawler,Marvel,413.0,29.99,80.0,3.0,132.0,gutt
 Armored Assault Tank (AAT),Star Wars,286.0,39.99,80.0,3.0,121.0,gutt
@@ -674,32 +378,21 @@ Captain Marvel and The Skrull Attack,Marvel,307.0,29.99,80.0,3.0,126.0,gutt
 501st Legion Clone Troopers,Star Wars,285.0,29.99,84.0,3.0,125.0,gutt
 Hoth Medical Chamber,Star Wars,255.0,29.99,84.0,4.0,120.0,gutt
 Sandspeeder,Star Wars,278.0,29.99,84.0,2.0,110.0,gutt
-Stephanie's House,Friends,170.0,39.99,92.0,3.0,116.0,jente
-Emmet's Triple-Decker Couch Mech,THE LEGO MOVIE 2,312.0,29.99,92.0,3.0,98.0,nøytralt
 Journey to the Skull Dungeons,NINJAGO,401.0,29.99,92.0,4.0,164.0,gutt
 White Dragon Horse Bike,Monkie Kid,259.0,34.99,96.0,3.0,134.0,gutt
 Storm Fighter Battle,NINJAGO,165.0,29.99,100.0,3.0,96.0,gutt
-Spinning Brushes Car Wash,Friends,325.0,29.99,108.0,2.0,174.0,jente
 Air Race,City,140.0,39.99,108.0,3.0,84.0,gutt
-Quidditch Match,Harry Potter,500.0,39.99,112.0,6.0,205.0,nøytralt
 Iron Bull Tank,Monkie Kid,430.0,49.99,124.0,3.0,160.0,gutt
-Rainbow Caterbus,Trolls World Tour,395.0,39.99,132.0,5.0,170.0,jente
 Jurassic Park Velociraptor Chase ,Jurassic World,360.0,39.99,132.0,4.0,195.0,gutt
 Winter Village Fire Station,Creator Expert,1166.0,99.99,136.0,8.0,323.0,gutt
 Fire Stone Mech,NINJAGO,968.0,69.99,136.0,5.0,260.0,gutt
 Death Star Final Duel,Star Wars,775.0,99.99,140.0,4.0,241.0,gutt
-Hedwig,Harry Potter,630.0,39.99,148.0,1.0,166.0,nøytralt
-Tree House Treasures ,Creator 3-in-1,260.0,29.99,152.0,2.0,119.0,nøytralt
 Monkie Kid's Cloud Jet,Monkie Kid,390.0,59.99,168.0,4.0,199.0,gutt
 Zane's Mino Creature,NINJAGO,616.0,49.99,172.0,4.0,202.0,gutt
-Attack on The Burrow,Harry Potter,1047.0,99.99,180.0,8.0,383.0,nøytralt
 Police Brick Box,City,301.0,39.99,188.0,4.0,162.0,gutt
-Outback Cabin,Creator 3-in-1,305.0,29.99,196.0,2.0,141.0,nøytralt
 Demon Bull King,Monkie Kid,585.0,89.99,200.0,3.0,264.0,gutt
 Skull Sorcerer's Dragon,NINJAGO,1016.0,79.99,200.0,6.0,303.0,gutt
-Alpaca Mountain Jungle Rescue,Friends,512.0,59.99,208.0,2.0,270.0,jente
 Pigsy's Food Truck,Monkie Kid,455.0,69.99,212.0,4.0,299.0,gutt
-Heartlake City Brick Box,Friends,321.0,39.99,220.0,2.0,121.0,jente
 Y-wing Starfighter,Star Wars,1967.0,199.99,220.0,2.0,359.0,gutt
 Red Son's Inferno Truck,Monkie Kid,1111.0,119.99,244.0,5.0,350.0,gutt
 Skull Sorcerer's Dungeons,NINJAGO,1171.0,99.99,256.0,8.0,425.0,gutt
@@ -709,7 +402,5 @@ Destiny's Bounty,NINJAGO,1781.0,129.99,316.0,7.0,479.0,gutt
 Ski Resort,City,806.0,89.99,328.0,11.0,348.0,gutt
 Disney Train and Station,Powered UP,2925.0,329.99,397.0,5.0,509.0,gutt
 1989 Batmobile,Batman,3306.0,249.99,404.0,3.0,484.0,gutt
-Tree House,Ideas,3036.0,199.99,428.0,4.0,482.0,nøytralt
-Welcome to Apocalypseburg!,THE LEGO MOVIE 2,3178.0,299.99,452.0,13.0,692.0,nøytralt
 Jurassic Park: T. rex Rampage,Jurassic World,3120.0,249.99,464.0,6.0,525.0,gutt
 Monkie Kid's Team Secret HQ,Monkie Kid,1105.0,169.99,556.0,7.0,622.0,gutt
